@@ -9,3 +9,4 @@ https://d1rrtoo3h22gy6.cloudfront.net/kabu-json-nomura-foreign-stocks/v1/nomura_
 ## 関連リンク
 
 - 株JSONトップページ: https://github.com/umihico/kabu-json
+- リリースブログ: https://umihi.co/blog/20240928-kabu-json-nomura-foreign-stocks-release
