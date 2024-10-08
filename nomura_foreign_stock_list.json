@@ -6860,6 +6860,13 @@
         "nomura_code": "A7781"
     },
     {
+        "original_code": "@AMTM/UR",
+        "original_name": "Amentum Holdings",
+        "japanese_name": "アメンタム・ホールディングス",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7784",
+        "nomura_code": "A7784"
+    },
+    {
         "original_code": "@ALV/XE",
         "original_name": "Allianz",
         "japanese_name": "アリアンツ",
