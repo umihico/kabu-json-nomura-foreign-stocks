@@ -10,8 +10,8 @@ session = requests.Session()
 
 stocks = []
 for i in range(0, 100):
-    url = f"https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_stklist&TARGET3=NULL&TARGET4=NULL&KEY7=%2FUR%2C%2FHK_D%2C%2FXE%2C%2FXE_D%2C%2FAUI_D&SEARCHTYPE=0&MAXDISP=50&GO_BEFORE=&BEFORE={
-        i*50}"
+    url = f"""https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_stklist&TARGET3=NULL&TARGET4=NULL&KEY7=%2FUR%2C%2FHK_D%2C%2FXE%2C%2FXE_D%2C%2FAUI_D&SEARCHTYPE=0&MAXDISP=50&GO_BEFORE=&BEFORE={
+        i*50}"""
     response = requests.get(url)
     body = response.content.decode("utf-8")
     tree = html.fromstring(body)
