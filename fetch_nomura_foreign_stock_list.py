@@ -33,8 +33,8 @@ for i in range(0, 100):
         regex = r"qsearch\.exe\?F=users/nomura/fs_detail&KEY1=[a-zA-Z0-9]+"
         for match in re.finditer(regex, code):
             path = match.group()
-            stock["nomura_url"] = f"https://advance.quote.nomura.co.jp/meigara/nomura2/{
-                path}"
+            stock["nomura_url"] = f"""https://advance.quote.nomura.co.jp/meigara/nomura2/{
+                path}"""
             stock["nomura_code"] = path.split("=")[2]
             break  # 複数ヒットするので、最初の１個だけを取得する
         stocks.append(stock)
