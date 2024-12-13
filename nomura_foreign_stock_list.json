@@ -6853,6 +6853,27 @@
         "nomura_code": "A7784"
     },
     {
+        "original_code": "@FLUT/UR",
+        "original_name": "Flutter Entertainment",
+        "japanese_name": "フラッター・エンターテインメント",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7795",
+        "nomura_code": "A7795"
+    },
+    {
+        "original_code": "@RDDT/UR",
+        "original_name": "Reddit A",
+        "japanese_name": "レディット　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7796",
+        "nomura_code": "A7796"
+    },
+    {
+        "original_code": "@FTAI/UR",
+        "original_name": "FTAI Aviation",
+        "japanese_name": "ＦＴＡＩアビエーション",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7797",
+        "nomura_code": "A7797"
+    },
+    {
         "original_code": "@ALV/XE",
         "original_name": "Allianz",
         "japanese_name": "アリアンツ",
