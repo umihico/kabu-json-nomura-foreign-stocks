@@ -672,6 +672,13 @@
         "nomura_code": "A0614"
     },
     {
+        "original_code": "@R/UR",
+        "original_name": "Ryder System",
+        "japanese_name": "レイダー・システム",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A0660",
+        "nomura_code": "A0660"
+    },
+    {
         "original_code": "@SRE/UR",
         "original_name": "Sempra",
         "japanese_name": "センプラ",
@@ -2105,6 +2112,20 @@
         "japanese_name": "ＢＨＰグループ　ＡＤＲ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A3480",
         "nomura_code": "A3480"
+    },
+    {
+        "original_code": "@EAT/UR",
+        "original_name": "Brinker International",
+        "japanese_name": "ブリンカー・インターナショナル",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A3489",
+        "nomura_code": "A3489"
+    },
+    {
+        "original_code": "@CHH/UR",
+        "original_name": "Choice Hotels International",
+        "japanese_name": "チョイス・ホテルズ・インターナショナル",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A3512",
+        "nomura_code": "A3512"
     },
     {
         "original_code": "@AEO/UR",
@@ -3591,6 +3612,13 @@
         "nomura_code": "A5765"
     },
     {
+        "original_code": "@AVAV/UR",
+        "original_name": "AeroVironment",
+        "japanese_name": "エアロバイロンメント",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5779",
+        "nomura_code": "A5779"
+    },
+    {
         "original_code": "@TEL/UR",
         "original_name": "TE Connectivity",
         "japanese_name": "ＴＥコネクティビティ",
@@ -4718,6 +4746,13 @@
         "nomura_code": "A6452"
     },
     {
+        "original_code": "@VRNS/UR",
+        "original_name": "Varonis Systems",
+        "japanese_name": "バロニス・システムズ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6464",
+        "nomura_code": "A6464"
+    },
+    {
         "original_code": "@BUD/UR",
         "original_name": "Anheuser-Busch InBev ADR",
         "japanese_name": "アンハイザー・ブッシュ・インベブ　ＡＤＲ",
@@ -5040,6 +5075,13 @@
         "nomura_code": "A6603"
     },
     {
+        "original_code": "@ESI/UR",
+        "original_name": "Element Solutions",
+        "japanese_name": "エレメント・ソリューションズ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6604",
+        "nomura_code": "A6604"
+    },
+    {
         "original_code": "@HUBS/UR",
         "original_name": "HubSpot",
         "japanese_name": "ハブ・スポット",
@@ -5241,6 +5283,13 @@
         "japanese_name": "ペイパル・ホールディングス",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6753",
         "nomura_code": "A6753"
+    },
+    {
+        "original_code": "@LITE/UR",
+        "original_name": "Lumentum Holdings",
+        "japanese_name": "ルメンタム・ホールディングス",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6759",
+        "nomura_code": "A6759"
     },
     {
         "original_code": "@Z/UR",
@@ -5488,6 +5537,13 @@
         "nomura_code": "A7011"
     },
     {
+        "original_code": "@HQY/UR",
+        "original_name": "HealthEquity",
+        "japanese_name": "ヘルスエクイティ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7020",
+        "nomura_code": "A7020"
+    },
+    {
         "original_code": "@OKTA/UR",
         "original_name": "Okta A",
         "japanese_name": "オクタ　Ａ",
@@ -5502,6 +5558,13 @@
         "nomura_code": "A7029"
     },
     {
+        "original_code": "@QTWO/UR",
+        "original_name": "Q2 Holdings",
+        "japanese_name": "Ｑ２ホールディングス",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7046",
+        "nomura_code": "A7046"
+    },
+    {
         "original_code": "@NTR/UR",
         "original_name": "Nutrien",
         "japanese_name": "ニュートリエン",
@@ -5514,6 +5577,13 @@
         "japanese_name": "リング・セントラル　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7068",
         "nomura_code": "A7068"
+    },
+    {
+        "original_code": "@NCLH/UR",
+        "original_name": "Norwegian Cruise Line Holdings",
+        "japanese_name": "ノルウェジアン・クルーズ・ラインＨＤ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7084",
+        "nomura_code": "A7084"
     },
     {
         "original_code": "@NVCR/UR",
@@ -5556,6 +5626,13 @@
         "japanese_name": "ブロードコム",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7118",
         "nomura_code": "A7118"
+    },
+    {
+        "original_code": "@VST/UR",
+        "original_name": "Vistra",
+        "japanese_name": "ヴィストラ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7119",
+        "nomura_code": "A7119"
     },
     {
         "original_code": "@NVT/UR",
@@ -6853,6 +6930,13 @@
         "nomura_code": "A7784"
     },
     {
+        "original_code": "@MARA/UR",
+        "original_name": "MARA Holdings",
+        "japanese_name": "ＭＡＲＡホールディングス",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7793",
+        "nomura_code": "A7793"
+    },
+    {
         "original_code": "@FLUT/UR",
         "original_name": "Flutter Entertainment",
         "japanese_name": "フラッター・エンターテインメント",
@@ -6893,6 +6977,27 @@
         "japanese_name": "アメア・スポーツ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7800",
         "nomura_code": "A7800"
+    },
+    {
+        "original_code": "@BRBR/UR",
+        "original_name": "BellRing Brands",
+        "japanese_name": "ベルリング・ブランズ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7801",
+        "nomura_code": "A7801"
+    },
+    {
+        "original_code": "@STRL/UR",
+        "original_name": "Sterling Infrastructure",
+        "japanese_name": "スターリング・インフラストラクチャー",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7802",
+        "nomura_code": "A7802"
+    },
+    {
+        "original_code": "@ACA/UR",
+        "original_name": "Arcosa",
+        "japanese_name": "アルコサ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7803",
+        "nomura_code": "A7803"
     },
     {
         "original_code": "@ALV/XE",
