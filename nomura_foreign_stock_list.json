@@ -7000,6 +7000,27 @@
         "nomura_code": "A7803"
     },
     {
+        "original_code": "@RRX/UR",
+        "original_name": "Regal Rexnord",
+        "japanese_name": "リーガル・レックスノード",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7804",
+        "nomura_code": "A7804"
+    },
+    {
+        "original_code": "@BROS/UR",
+        "original_name": "Dutch Bros A",
+        "japanese_name": "ダッチ・ブロス　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7805",
+        "nomura_code": "A7805"
+    },
+    {
+        "original_code": "@GTES/UR",
+        "original_name": "Gates Industrial",
+        "japanese_name": "ゲーツ・インダストリアル",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7806",
+        "nomura_code": "A7806"
+    },
+    {
         "original_code": "@ALV/XE",
         "original_name": "Allianz",
         "japanese_name": "アリアンツ",
