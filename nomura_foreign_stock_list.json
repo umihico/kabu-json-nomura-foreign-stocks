@@ -6272,13 +6272,6 @@
         "nomura_code": "A7522"
     },
     {
-        "original_code": "@CTLT/UR",
-        "original_name": "Catalent",
-        "japanese_name": "キャタレント",
-        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7524",
-        "nomura_code": "A7524"
-    },
-    {
         "original_code": "@CVNA/UR",
         "original_name": "Carvana",
         "japanese_name": "カーバナ",
@@ -7019,6 +7012,27 @@
         "japanese_name": "ゲーツ・インダストリアル",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7806",
         "nomura_code": "A7806"
+    },
+    {
+        "original_code": "@ROAD/UR",
+        "original_name": "Construction Partners A",
+        "japanese_name": "コンストラクション・パートナーズ　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7807",
+        "nomura_code": "A7807"
+    },
+    {
+        "original_code": "@WAY/UR",
+        "original_name": "Waystar Holding",
+        "japanese_name": "ウェイスター・ホールディング",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7808",
+        "nomura_code": "A7808"
+    },
+    {
+        "original_code": "@SG/UR",
+        "original_name": "Sweetgreen A",
+        "japanese_name": "スイートグリーン　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7809",
+        "nomura_code": "A7809"
     },
     {
         "original_code": "@ALV/XE",
