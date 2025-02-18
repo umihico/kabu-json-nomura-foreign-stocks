@@ -1408,8 +1408,8 @@
     },
     {
         "original_code": "@HIG/UR",
-        "original_name": "Hartford Financial Services Group",
-        "japanese_name": "ハートフォード・ファイナンシャル・サービシズ・グループ",
+        "original_name": "Hartford Insurance Group, The",
+        "japanese_name": "ハートフォード・インシュアランス・グループ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A1847",
         "nomura_code": "A1847"
     },
@@ -3164,9 +3164,9 @@
         "nomura_code": "A5297"
     },
     {
-        "original_code": "@TPX/UR",
-        "original_name": "Tempur Sealy International",
-        "japanese_name": "テンピュール・シーリー・インターナショナル",
+        "original_code": "@SGI/UR",
+        "original_name": "Somnigroup International",
+        "japanese_name": "ソムニグループ・インターナショナル",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5303",
         "nomura_code": "A5303"
     },
