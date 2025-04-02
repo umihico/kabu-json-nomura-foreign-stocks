@@ -7287,6 +7287,13 @@
         "nomura_code": "G0902"
     },
     {
+        "original_code": "@MTX/XE",
+        "original_name": "MTU Aero Engines",
+        "japanese_name": "ＭＴＵエアロ・エンジンズ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0906",
+        "nomura_code": "G0906"
+    },
+    {
         "original_code": "@PAH3/XE",
         "original_name": "Porsche Automobil Holding",
         "japanese_name": "ポルシェ・オートモービルＨＤ",
@@ -7385,9 +7392,9 @@
         "nomura_code": "I0889"
     },
     {
-        "original_code": "@IPL/AUI_D",
-        "original_name": "INCITEC PIVOT",
-        "japanese_name": "インシテック・ピボット",
+        "original_code": "@DNL/AUI_D",
+        "original_name": "DYNO NOBEL",
+        "japanese_name": "ダイノ・ノーベル",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=I0893",
         "nomura_code": "I0893"
     },
