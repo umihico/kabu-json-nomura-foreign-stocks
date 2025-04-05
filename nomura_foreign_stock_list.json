@@ -4669,6 +4669,13 @@
         "nomura_code": "A6377"
     },
     {
+        "original_code": "@WIX/UR",
+        "original_name": "Wix.com",
+        "japanese_name": "ウィックス・ドット・コム",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6387",
+        "nomura_code": "A6387"
+    },
+    {
         "original_code": "@ICE/UR",
         "original_name": "Intercontinental Exchange",
         "japanese_name": "インターコンチネンタル取引所（ＩＣＥ）",
@@ -6433,6 +6440,13 @@
         "nomura_code": "A7614"
     },
     {
+        "original_code": "@CFLT/UR",
+        "original_name": "Confluent A",
+        "japanese_name": "コンフルーエント　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7615",
+        "nomura_code": "A7615"
+    },
+    {
         "original_code": "@APO/UR",
         "original_name": "Apollo Global Management",
         "japanese_name": "アポロ・グローバル・マネジメント",
@@ -6657,6 +6671,13 @@
         "nomura_code": "A7721"
     },
     {
+        "original_code": "@CRH/UR",
+        "original_name": "CRH",
+        "japanese_name": "ＣＲＨ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7722",
+        "nomura_code": "A7722"
+    },
+    {
         "original_code": "@VLTO/UR",
         "original_name": "Veralto",
         "japanese_name": "ベラルト",
@@ -6746,6 +6767,13 @@
         "japanese_name": "バーティブ・ホールディングス　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7748",
         "nomura_code": "A7748"
+    },
+    {
+        "original_code": "@CART/UR",
+        "original_name": "Maplebear",
+        "japanese_name": "メープルベア",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7750",
+        "nomura_code": "A7750"
     },
     {
         "original_code": "@WNS/UR",
