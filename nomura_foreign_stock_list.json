@@ -7161,6 +7161,13 @@
         "nomura_code": "G0227"
     },
     {
+        "original_code": "@HEI/XE",
+        "original_name": "Heidelberg Materials",
+        "japanese_name": "ハイデルベルグ・マテリアルズ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0228",
+        "nomura_code": "G0228"
+    },
+    {
         "original_code": "@IFX/XE",
         "original_name": "Infineon Technologies",
         "japanese_name": "インフィニオン・テクノロジーズ",
@@ -7189,11 +7196,25 @@
         "nomura_code": "G0457"
     },
     {
+        "original_code": "@QIA/XE",
+        "original_name": "QIAGEN",
+        "japanese_name": "ギアゲン",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0601",
+        "nomura_code": "G0601"
+    },
+    {
         "original_code": "@RWE/XE",
         "original_name": "RWE",
         "japanese_name": "ＲＷＥ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0651",
         "nomura_code": "G0651"
+    },
+    {
+        "original_code": "@RHM/XE",
+        "original_name": "Rheinmetall",
+        "japanese_name": "ラインメタル",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0653",
+        "nomura_code": "G0653"
     },
     {
         "original_code": "@SAP/XE",
@@ -7271,6 +7292,13 @@
         "japanese_name": "カール・ツァイス・メディテック",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0876",
         "nomura_code": "G0876"
+    },
+    {
+        "original_code": "@ZAL/XE",
+        "original_name": "Zalando",
+        "japanese_name": "ザランド",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0878",
+        "nomura_code": "G0878"
     },
     {
         "original_code": "@VNA/XE",
