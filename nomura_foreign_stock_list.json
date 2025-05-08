@@ -3465,20 +3465,6 @@
         "nomura_code": "A5614"
     },
     {
-        "original_code": "@IPI/UR",
-        "original_name": "Intrepid Potash",
-        "japanese_name": "イントレピッド・ポタシュ",
-        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5619",
-        "nomura_code": "A5619"
-    },
-    {
-        "original_code": "@ENOV/UR",
-        "original_name": "Enovis",
-        "japanese_name": "エノビス",
-        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5622",
-        "nomura_code": "A5622"
-    },
-    {
         "original_code": "@IXG/UR",
         "original_name": "iShares Global Financials ETF",
         "japanese_name": "ｉシェアーズ　グローバル金融　ＥＴＦ",
@@ -8267,13 +8253,6 @@
         "nomura_code": "Z1511"
     },
     {
-        "original_code": "@303/HK_D",
-        "original_name": "VTECH HOLDINGS",
-        "japanese_name": "偉易達集団（Ｖテック）",
-        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z1514",
-        "nomura_code": "Z1514"
-    },
-    {
         "original_code": "@2331/HK_D",
         "original_name": "LI NING",
         "japanese_name": "李寧（リー・ニン）",
@@ -8720,13 +8699,6 @@
         "japanese_name": "永利澳門（ウィン・マカオ）",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z1831",
         "nomura_code": "Z1831"
-    },
-    {
-        "original_code": "@1313/HK_D",
-        "original_name": "CHINA RESOURCES BUILDING MATERIALS TECHNOLOGY HOLDINGS",
-        "japanese_name": "華潤建材科技控股（チャイナ・リソーシズ・ビルディング・マテリアルズ・テクノロジー・ホールディングス）",
-        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z1834",
-        "nomura_code": "Z1834"
     },
     {
         "original_code": "@3333/HK_D",
