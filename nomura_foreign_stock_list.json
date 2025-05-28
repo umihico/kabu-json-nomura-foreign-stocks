@@ -7014,6 +7014,13 @@
         "nomura_code": "A7819"
     },
     {
+        "original_code": "@CRWV/UR",
+        "original_name": "CoreWeave A",
+        "japanese_name": "コアウィーブ　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7825",
+        "nomura_code": "A7825"
+    },
+    {
         "original_code": "@ALV/XE",
         "original_name": "Allianz",
         "japanese_name": "アリアンツ",
@@ -9056,5 +9063,12 @@
         "japanese_name": "百度集団（バイドゥ）",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4958",
         "nomura_code": "Z4958"
+    },
+    {
+        "original_code": "@3750/HK_D",
+        "original_name": "CONTEMPORARY AMPEREX TECHNOLOGY",
+        "japanese_name": "寧徳時代新能源科技（コンテンポラリー・アンペレックス・テクノロジー）",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4969",
+        "nomura_code": "Z4969"
     }
 ]
