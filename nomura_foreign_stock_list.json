@@ -7133,6 +7133,13 @@
         "nomura_code": "G0191"
     },
     {
+        "original_code": "@HOT/XE",
+        "original_name": "HOCHTIEF",
+        "japanese_name": "ホッホティーフ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0222",
+        "nomura_code": "G0222"
+    },
+    {
         "original_code": "@HEN3/XE",
         "original_name": "Henkel",
         "japanese_name": "ヘンケル",
@@ -7166,6 +7173,13 @@
         "japanese_name": "ミュンヘン再保険",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0451",
         "nomura_code": "G0451"
+    },
+    {
+        "original_code": "@G1A/XE",
+        "original_name": "GEA Group",
+        "japanese_name": "ＧＥＡグル－プ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0452",
+        "nomura_code": "G0452"
     },
     {
         "original_code": "@CEC/XE",
@@ -7264,6 +7278,13 @@
         "japanese_name": "ブレンタグ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0860",
         "nomura_code": "G0860"
+    },
+    {
+        "original_code": "@NEM/XE",
+        "original_name": "Nemetschek",
+        "japanese_name": "ネメチェック",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0867",
+        "nomura_code": "G0867"
     },
     {
         "original_code": "@AFX/XE",
