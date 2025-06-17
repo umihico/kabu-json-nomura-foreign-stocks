@@ -5153,7 +5153,7 @@
     },
     {
         "original_code": "@VIRT/UR",
-        "original_name": "Virtu Financial",
+        "original_name": "Virtu Financial A",
         "japanese_name": "バーチュ・ファイナンシャル　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6689",
         "nomura_code": "A6689"
@@ -7362,6 +7362,20 @@
         "japanese_name": "ザルトリウス",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0907",
         "nomura_code": "G0907"
+    },
+    {
+        "original_code": "@TLX/XE",
+        "original_name": "Talanx",
+        "japanese_name": "タランクス",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0908",
+        "nomura_code": "G0908"
+    },
+    {
+        "original_code": "@8TRA/XE",
+        "original_name": "TRATON",
+        "japanese_name": "トレイトン",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0909",
+        "nomura_code": "G0909"
     },
     {
         "original_code": "@PAH3/XE",
