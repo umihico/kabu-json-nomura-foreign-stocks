@@ -7378,6 +7378,20 @@
         "nomura_code": "G0909"
     },
     {
+        "original_code": "@KBX/XE",
+        "original_name": "Knorr-Bremse",
+        "japanese_name": "クノ－ル－ブレムゼ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0910",
+        "nomura_code": "G0910"
+    },
+    {
+        "original_code": "@HAG/XE",
+        "original_name": "HENSOLDT",
+        "japanese_name": "ヘンゾルト",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0911",
+        "nomura_code": "G0911"
+    },
+    {
         "original_code": "@PAH3/XE",
         "original_name": "Porsche Automobil Holding",
         "japanese_name": "ポルシェ・オートモービルＨＤ",
