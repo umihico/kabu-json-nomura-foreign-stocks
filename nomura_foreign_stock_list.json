@@ -7385,6 +7385,20 @@
         "nomura_code": "G0911"
     },
     {
+        "original_code": "@EVD/XE",
+        "original_name": "CTS Eventim",
+        "japanese_name": "ＣＴＳイベンティム",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0912",
+        "nomura_code": "G0912"
+    },
+    {
+        "original_code": "@G24/XE",
+        "original_name": "Scout24",
+        "japanese_name": "スカウト２４",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0913",
+        "nomura_code": "G0913"
+    },
+    {
         "original_code": "@PAH3/XE",
         "original_name": "Porsche Automobil Holding",
         "japanese_name": "ポルシェ・オートモービルＨＤ",
