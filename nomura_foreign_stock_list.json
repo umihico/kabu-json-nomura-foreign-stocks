@@ -7399,6 +7399,20 @@
         "nomura_code": "G0913"
     },
     {
+        "original_code": "@EVK/XE",
+        "original_name": "Evonik Industries",
+        "japanese_name": "エボニック・インダストリ－ズ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0914",
+        "nomura_code": "G0914"
+    },
+    {
+        "original_code": "@RAA/XE",
+        "original_name": "Rational",
+        "japanese_name": "ラショナル",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0915",
+        "nomura_code": "G0915"
+    },
+    {
         "original_code": "@PAH3/XE",
         "original_name": "Porsche Automobil Holding",
         "japanese_name": "ポルシェ・オートモービルＨＤ",
