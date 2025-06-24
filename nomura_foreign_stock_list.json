@@ -7413,6 +7413,20 @@
         "nomura_code": "G0915"
     },
     {
+        "original_code": "@R3NK/XE",
+        "original_name": "RENK Group",
+        "japanese_name": "レンク・グル－プ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0916",
+        "nomura_code": "G0916"
+    },
+    {
+        "original_code": "@FRA/XE",
+        "original_name": "Fraport",
+        "japanese_name": "フラポ－ト",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0917",
+        "nomura_code": "G0917"
+    },
+    {
         "original_code": "@PAH3/XE",
         "original_name": "Porsche Automobil Holding",
         "japanese_name": "ポルシェ・オートモービルＨＤ",
