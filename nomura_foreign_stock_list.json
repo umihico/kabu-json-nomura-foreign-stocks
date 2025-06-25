@@ -7427,6 +7427,27 @@
         "nomura_code": "G0917"
     },
     {
+        "original_code": "@KGX/XE",
+        "original_name": "KION GROUP",
+        "japanese_name": "キオン・グル－プ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0918",
+        "nomura_code": "G0918"
+    },
+    {
+        "original_code": "@AG1/XE",
+        "original_name": "AUTO1 Group",
+        "japanese_name": "アウトアインス・グル－プ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0919",
+        "nomura_code": "G0919"
+    },
+    {
+        "original_code": "@LEG/XE",
+        "original_name": "LEG Immobilien",
+        "japanese_name": "ＬＥＧイモビリエン",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=G0920",
+        "nomura_code": "G0920"
+    },
+    {
         "original_code": "@PAH3/XE",
         "original_name": "Porsche Automobil Holding",
         "japanese_name": "ポルシェ・オートモービルＨＤ",
