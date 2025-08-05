@@ -6993,6 +6993,13 @@
         "nomura_code": "A7825"
     },
     {
+        "original_code": "@CRCL/UR",
+        "original_name": "Circle Internet Group A",
+        "japanese_name": "サークル・インターネット・グループ　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7839",
+        "nomura_code": "A7839"
+    },
+    {
         "original_code": "@ALV/XE",
         "original_name": "Allianz",
         "japanese_name": "アリアンツ",
