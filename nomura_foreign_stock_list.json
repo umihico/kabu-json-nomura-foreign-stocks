@@ -2345,6 +2345,13 @@
         "nomura_code": "A4203"
     },
     {
+        "original_code": "@CLS/UR",
+        "original_name": "Celestica",
+        "japanese_name": "セレスティカ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A4209",
+        "nomura_code": "A4209"
+    },
+    {
         "original_code": "@NOV/UR",
         "original_name": "NOV",
         "japanese_name": "ＮＯＶ",
@@ -3675,6 +3682,13 @@
         "nomura_code": "A5884"
     },
     {
+        "original_code": "@BWXT/UR",
+        "original_name": "BWX Technologies",
+        "japanese_name": "ＢＷＸテクノロジーズ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5885",
+        "nomura_code": "A5885"
+    },
+    {
         "original_code": "@EMB/UR",
         "original_name": "iShares J.P. Morgan USD Emerging Markets Bond ETF",
         "japanese_name": "ｉシェアーズ　Ｊ．Ｐ．モルガン・米ドル建てエマージング・マーケット債券　ＥＴＦ",
@@ -3694,6 +3708,13 @@
         "japanese_name": "ゼネラル・モーターズ（ＧＭ）",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5904",
         "nomura_code": "A5904"
+    },
+    {
+        "original_code": "@SPR/UR",
+        "original_name": "Spirit Aerosystems Holdings",
+        "japanese_name": "スピリット・エアロシステムズＨＤ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5908",
+        "nomura_code": "A5908"
     },
     {
         "original_code": "@AWK/UR",
@@ -6846,6 +6867,13 @@
         "nomura_code": "A7784"
     },
     {
+        "original_code": "@JOBY/UR",
+        "original_name": "Joby Aviation",
+        "japanese_name": "ジョビー・アビエーション",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7790",
+        "nomura_code": "A7790"
+    },
+    {
         "original_code": "@MARA/UR",
         "original_name": "MARA Holdings",
         "japanese_name": "ＭＡＲＡホールディングス",
@@ -6977,6 +7005,13 @@
         "japanese_name": "コアウィーブ　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7825",
         "nomura_code": "A7825"
+    },
+    {
+        "original_code": "@RKLB/UR",
+        "original_name": "Rocket Lab",
+        "japanese_name": "ロケット・ラブ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7826",
+        "nomura_code": "A7826"
     },
     {
         "original_code": "@CRCL/UR",
