@@ -7035,6 +7035,13 @@
         "nomura_code": "A7843"
     },
     {
+        "original_code": "@MP/UR",
+        "original_name": "MP Materials A",
+        "japanese_name": "ＭＰマテリアルズ　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7845",
+        "nomura_code": "A7845"
+    },
+    {
         "original_code": "@ALV/XE",
         "original_name": "Allianz",
         "japanese_name": "アリアンツ",
@@ -9196,5 +9203,12 @@
         "japanese_name": "寧徳時代新能源科技（コンテンポラリー・アンペレックス・テクノロジー）",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4969",
         "nomura_code": "Z4969"
+    },
+    {
+        "original_code": "@9992/HK_D",
+        "original_name": "POP MART INTERNATIONAL GROUP",
+        "japanese_name": "泡泡瑪特国際集団（ポップ・マート・インターナショナル・グループ）",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4971",
+        "nomura_code": "Z4971"
     }
 ]
