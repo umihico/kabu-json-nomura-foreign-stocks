@@ -7042,6 +7042,20 @@
         "nomura_code": "A7845"
     },
     {
+        "original_code": "@QBTS/UR",
+        "original_name": "D-Wave Quantum",
+        "japanese_name": "Ｄ－ウェーブ・クオンタム",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7846",
+        "nomura_code": "A7846"
+    },
+    {
+        "original_code": "@RGTI/UR",
+        "original_name": "Rigetti Computing",
+        "japanese_name": "リゲッティ・コンピューティング",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7847",
+        "nomura_code": "A7847"
+    },
+    {
         "original_code": "@ALV/XE",
         "original_name": "Allianz",
         "japanese_name": "アリアンツ",
