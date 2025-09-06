@@ -5397,6 +5397,13 @@
         "nomura_code": "A6912"
     },
     {
+        "original_code": "@FN/UR",
+        "original_name": "Fabrinet",
+        "japanese_name": "ファブリネット",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6913",
+        "nomura_code": "A6913"
+    },
+    {
         "original_code": "@MUSA/UR",
         "original_name": "Murphy USA",
         "japanese_name": "マーフィーＵＳＡ",
@@ -7061,6 +7068,13 @@
         "japanese_name": "ニュースケール・パワー　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7848",
         "nomura_code": "A7848"
+    },
+    {
+        "original_code": "@SRAD/UR",
+        "original_name": "Sportradar Group A",
+        "japanese_name": "スポートレーダー・グループ　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7850",
+        "nomura_code": "A7850"
     },
     {
         "original_code": "@ALV/XE",
