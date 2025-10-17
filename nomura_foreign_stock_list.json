@@ -6321,6 +6321,13 @@
         "nomura_code": "A7584"
     },
     {
+        "original_code": "@SOFI/UR",
+        "original_name": "SoFi Technologies",
+        "japanese_name": "ソーファイ・テクノロジーズ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7585",
+        "nomura_code": "A7585"
+    },
+    {
         "original_code": "@BURL/UR",
         "original_name": "Burlington Stores",
         "japanese_name": "バーリントン・ストアーズ",
@@ -7047,6 +7054,20 @@
         "japanese_name": "スポートレーダー・グループ　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7850",
         "nomura_code": "A7850"
+    },
+    {
+        "original_code": "@CRDO/UR",
+        "original_name": "Credo Technology Group Holding",
+        "japanese_name": "クレド・テクノロジー・グループ・ホールディング",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7858",
+        "nomura_code": "A7858"
+    },
+    {
+        "original_code": "@KVYO/UR",
+        "original_name": "Klaviyo Series A",
+        "japanese_name": "クラビヨ・シリーズ　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7860",
+        "nomura_code": "A7860"
     },
     {
         "original_code": "@ALV/XE",
@@ -8975,8 +8996,8 @@
     },
     {
         "original_code": "@3087/HK_D",
-        "original_name": "XTRACKERS FTSE VIETNAM SWAP UCITS ETF",
-        "japanese_name": "Ｘｔｒａｃｋｅｒｓ富時越南掉期ＵＣＩＴＳ　ＥＴＦ（ＸトラッカーズＦＴＳＥベトナム・スワップＵＣＩＴＳ　ＥＴＦ）",
+        "original_name": "XTRACKERS VIETNAM SWAP UCITS ETF",
+        "japanese_name": "ＸＴＲＡＣＫＥＲＳ　ＶＩＥＴＮＡＭ　ＳＷＡＰ　ＵＣＩＴＳ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z1923",
         "nomura_code": "Z1923"
     },
