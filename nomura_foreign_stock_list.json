@@ -6713,13 +6713,6 @@
         "nomura_code": "A7750"
     },
     {
-        "original_code": "@WNS/UR",
-        "original_name": "WNS (Holdings)",
-        "japanese_name": null,
-        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7751",
-        "nomura_code": "A7751"
-    },
-    {
         "original_code": "@SOLV/UR",
         "original_name": "Solventum",
         "japanese_name": "ソルベンタム",
@@ -7068,6 +7061,20 @@
         "japanese_name": "クラビヨ・シリーズ　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7860",
         "nomura_code": "A7860"
+    },
+    {
+        "original_code": "@IREN/UR",
+        "original_name": "IREN",
+        "japanese_name": "ＩＲＥＮ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7861",
+        "nomura_code": "A7861"
+    },
+    {
+        "original_code": "@ASTS/UR",
+        "original_name": "AST SpaceMobile A",
+        "japanese_name": "ＡＳＴスペースモバイル　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7862",
+        "nomura_code": "A7862"
     },
     {
         "original_code": "@ALV/XE",
