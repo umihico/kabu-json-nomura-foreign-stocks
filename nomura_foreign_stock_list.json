@@ -3949,8 +3949,8 @@
     },
     {
         "original_code": "@JNK/UR",
-        "original_name": "SPDR Bloomberg High Yield Bond ETF",
-        "japanese_name": "ＳＰＤＲ　Ｂｌｏｏｍｂｅｒｇ　Ｈｉｇｈ　Ｙｉｅｌｄ　Ｂｏｎｄ　ＥＴＦ",
+        "original_name": "State Street SPDR Bloomberg High Yield Bond ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｂｌｏｏｍｂｅｒｇ　Ｈｉｇｈ　Ｙｉｅｌｄ　Ｂｏｎｄ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6028",
         "nomura_code": "A6028"
     },
@@ -4222,15 +4222,15 @@
     },
     {
         "original_code": "@RWR/UR",
-        "original_name": "SPDR Dow Jones REIT ETF",
-        "japanese_name": "ＳＰＤＲダウ・ジョーンズＲＥＩＴ　ＥＴＦ",
+        "original_name": "State Street SPDR Dow Jones REIT ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｄｏｗ　Ｊｏｎｅｓ　ＲＥＩＴ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6129",
         "nomura_code": "A6129"
     },
     {
         "original_code": "@SDY/UR",
-        "original_name": "SPDR S&P Dividend ETF",
-        "japanese_name": "ＳＰＤＲ　Ｓ＆Ｐ　ディビデンド　ＥＴＦ",
+        "original_name": "State Street SPDR S&P Dividend ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｓ＆Ｐ　Ｄｉｖｉｄｅｎｄ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6130",
         "nomura_code": "A6130"
     },
@@ -4278,8 +4278,8 @@
     },
     {
         "original_code": "@CWB/UR",
-        "original_name": "SPDR Bloomberg Convertible Securities ETF",
-        "japanese_name": "ＳＰＤＲ　Ｂｌｏｏｍｂｅｒｇ　Ｃｏｎｖｅｒｔｉｂｌｅ　Ｓｅｃｕｒｉｔｉｅｓ　ＥＴＦ",
+        "original_name": "State Street SPDR Bloomberg Convertible Securities ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｂｌｏｏｍｂｅｒｇ　Ｃｏｎｖｅｒｔｉｂｌｅ　Ｓｅｃｕｒｉｔｉｅｓ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6138",
         "nomura_code": "A6138"
     },
@@ -5797,8 +5797,8 @@
     },
     {
         "original_code": "@SJNK/UR",
-        "original_name": "SPDR Bloomberg Short Term High Yield Bond ETF",
-        "japanese_name": "ＳＰＤＲ　Ｂｌｏｏｍｂｅｒｇ　Ｓｈｏｒｔ　Ｔｅｒｍ　Ｈｉｇｈ　Ｙｉｅｌｄ　Ｂｏｎｄ　ＥＴＦ",
+        "original_name": "State Street SPDR Bloomberg Short Term High Yield Bond ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｂｌｏｏｍｂｅｒｇ　Ｓｈｏｒｔ　Ｔｅｒｍ　Ｈｉｇｈ　Ｙｉｅｌｄ　Ｂｏｎｄ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7335",
         "nomura_code": "A7335"
     },
@@ -5923,43 +5923,43 @@
     },
     {
         "original_code": "@SPYG/UR",
-        "original_name": "SPDR Portfolio S&P 500 Growth ETF",
-        "japanese_name": "ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓ＆Ｐ　５００　Ｇｒｏｗｔｈ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio S&P 500 Growth ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓ＆Ｐ　５００　Ｇｒｏｗｔｈ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7411",
         "nomura_code": "A7411"
     },
     {
         "original_code": "@SPYV/UR",
-        "original_name": "SPDR Portfolio S&P 500 Value ETF",
-        "japanese_name": "ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓ＆Ｐ　５００　Ｖａｌｕｅ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio S&P 500 Value ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓ＆Ｐ　５００　Ｖａｌｕｅ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7412",
         "nomura_code": "A7412"
     },
     {
         "original_code": "@SPTM/UR",
-        "original_name": "SPDR Portfolio S&P 1500 Composite Stock Market ETF",
-        "japanese_name": "ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓ＆Ｐ　１５００　Ｃｏｍｐｏｓｉｔｅ　Ｓｔｏｃｋ　Ｍａｒｋｅｔ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio S&P 1500 Composite Stock Market ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓ＆Ｐ　１５００　Ｃｏｍｐｏｓｉｔｅ　Ｓｔｏｃｋ　Ｍａｒｋｅｔ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7413",
         "nomura_code": "A7413"
     },
     {
-        "original_code": "@SPLG/UR",
-        "original_name": "SPDR Portfolio S&P 500 ETF",
-        "japanese_name": "ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓ＆Ｐ　５００　ＥＴＦ",
+        "original_code": "@SPYM/UR",
+        "original_name": "State Street SPDR Portfolio S&P 500 ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓ＆Ｐ　５００　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7414",
         "nomura_code": "A7414"
     },
     {
         "original_code": "@SPMD/UR",
-        "original_name": "SPDR Portfolio S&P 400 Mid Cap ETF",
-        "japanese_name": "ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓ＆Ｐ　４００　Ｍｉｄ　Ｃａｐ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio S&P 400 Mid Cap ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓ＆Ｐ　４００　Ｍｉｄ　Ｃａｐ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7415",
         "nomura_code": "A7415"
     },
     {
         "original_code": "@SPSM/UR",
-        "original_name": "SPDR Portfolio S&P 600 Small Cap ETF",
-        "japanese_name": "ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓ＆Ｐ　６００　Ｓｍａｌｌ　Ｃａｐ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio S&P 600 Small Cap ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓ＆Ｐ　６００　Ｓｍａｌｌ　Ｃａｐ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7416",
         "nomura_code": "A7416"
     },
@@ -5972,43 +5972,43 @@
     },
     {
         "original_code": "@SPYD/UR",
-        "original_name": "SPDR Portfolio S&P 500 High Dividend ETF",
-        "japanese_name": "ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓ＆Ｐ　５００　Ｈｉｇｈ　Ｄｉｖｉｄｅｎｄ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio S&P 500 High Dividend ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓ＆Ｐ　５００　Ｈｉｇｈ　Ｄｉｖｉｄｅｎｄ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7418",
         "nomura_code": "A7418"
     },
     {
         "original_code": "@SHE/UR",
-        "original_name": "SPDR MSCI USA Gender Diversity ETF",
-        "japanese_name": "ＳＰＤＲ　ＭＳＣＩ　ＵＳＡ　Ｇｅｎｄｅｒ　Ｄｉｖｅｒｓｉｔｙ　ＥＴＦ",
+        "original_name": "State Street SPDR MSCI USA Gender Diversity ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　ＭＳＣＩ　ＵＳＡ　Ｇｅｎｄｅｒ　Ｄｉｖｅｒｓｉｔｙ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7419",
         "nomura_code": "A7419"
     },
     {
         "original_code": "@SPAB/UR",
-        "original_name": "SPDR Portfolio Aggregate Bond ETF",
-        "japanese_name": "ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ａｇｇｒｅｇａｔｅ　Ｂｏｎｄ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio Aggregate Bond ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ａｇｇｒｅｇａｔｅ　Ｂｏｎｄ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7420",
         "nomura_code": "A7420"
     },
     {
         "original_code": "@SPTS/UR",
-        "original_name": "SPDR Portfolio Short Term Treasury ETF",
-        "japanese_name": "ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓｈｏｒｔ　Ｔｅｒｍ　Ｔｒｅａｓｕｒｙ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio Short Term Treasury ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓｈｏｒｔ　Ｔｅｒｍ　Ｔｒｅａｓｕｒｙ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7421",
         "nomura_code": "A7421"
     },
     {
         "original_code": "@SPTI/UR",
-        "original_name": "SPDR Portfolio Intermediate Term Treasury ETF",
-        "japanese_name": "ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｉｎｔｅｒｍｅｄｉａｔｅ　Ｔｅｒｍ　Ｔｒｅａｓｕｒｙ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio Intermediate Term Treasury ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｉｎｔｅｒｍｅｄｉａｔｅ　Ｔｅｒｍ　Ｔｒｅａｓｕｒｙ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7422",
         "nomura_code": "A7422"
     },
     {
         "original_code": "@SPTL/UR",
-        "original_name": "SPDR Portfolio Long Term Treasury ETF",
-        "japanese_name": "ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｌｏｎｇ　Ｔｅｒｍ　Ｔｒｅａｓｕｒｙ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio Long Term Treasury ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｌｏｎｇ　Ｔｅｒｍ　Ｔｒｅａｓｕｒｙ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7423",
         "nomura_code": "A7423"
     },
@@ -6021,22 +6021,22 @@
     },
     {
         "original_code": "@SPSB/UR",
-        "original_name": "SPDR Portfolio Short Term Corporate Bond ETF",
-        "japanese_name": "ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓｈｏｒｔ　Ｔｅｒｍ　Ｃｏｒｐｏｒａｔｅ　Ｂｏｎｄ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio Short Term Corporate Bond ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓｈｏｒｔ　Ｔｅｒｍ　Ｃｏｒｐｏｒａｔｅ　Ｂｏｎｄ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7425",
         "nomura_code": "A7425"
     },
     {
         "original_code": "@SPIB/UR",
-        "original_name": "SPDR Portfolio Intermediate Term Corporate Bond ETF",
-        "japanese_name": "ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｉｎｔｅｒｍｅｄｉａｔｅ　Ｔｅｒｍ　Ｃｏｒｐｏｒａｔｅ　Ｂｏｎｄ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio Intermediate Term Corporate Bond ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｉｎｔｅｒｍｅｄｉａｔｅ　Ｔｅｒｍ　Ｃｏｒｐｏｒａｔｅ　Ｂｏｎｄ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7426",
         "nomura_code": "A7426"
     },
     {
         "original_code": "@SPLB/UR",
-        "original_name": "SPDR Portfolio Long Term Corporate Bond ETF",
-        "japanese_name": "ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｌｏｎｇ　Ｔｅｒｍ　Ｃｏｒｐｏｒａｔｅ　Ｂｏｎｄ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio Long Term Corporate Bond ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｌｏｎｇ　Ｔｅｒｍ　Ｃｏｒｐｏｒａｔｅ　Ｂｏｎｄ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7427",
         "nomura_code": "A7427"
     },
