@@ -2492,7 +2492,7 @@
         "nomura_code": "A4557"
     },
     {
-        "original_code": "@ERJ/UR",
+        "original_code": "@EMBJ/UR",
         "original_name": "Embraer ADR",
         "japanese_name": "エンブラエル　ＡＤＲ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A4558",
@@ -4579,8 +4579,8 @@
     },
     {
         "original_code": "@SRLN/UR",
-        "original_name": "SPDR Blackstone Senior Loan ETF",
-        "japanese_name": "ＳＰＤＲ　Ｂｌａｃｋｓｔｏｎｅ　Ｓｅｎｉｏｒ　Ｌｏａｎ　ＥＴＦ",
+        "original_name": "State Street Blackstone Senior Loan ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　Ｂｌａｃｋｓｔｏｎｅ　Ｓｅｎｉｏｒ　Ｌｏａｎ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6374",
         "nomura_code": "A6374"
     },
@@ -5181,15 +5181,15 @@
     },
     {
         "original_code": "@GAL/UR",
-        "original_name": "SPDR SSgA Global Allocation ETF",
-        "japanese_name": "ＳＰＤＲ　ＳＳｇＡ　グローバル・アロケーションＥＴＦ",
+        "original_name": "State Street Global Allocation ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　Ｇｌｏｂａｌ　Ａｌｌｏｃａｔｉｏｎ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6735",
         "nomura_code": "A6735"
     },
     {
         "original_code": "@INKM/UR",
-        "original_name": "SPDR SSgA Income Allocation ETF",
-        "japanese_name": "ＳＰＤＲ　ＳＳｇＡ　インカム・アロケーションＥＴＦ",
+        "original_name": "State Street Income Allocation ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　Ｉｎｃｏｍｅ　Ａｌｌｏｃａｔｉｏｎ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6736",
         "nomura_code": "A6736"
     },
