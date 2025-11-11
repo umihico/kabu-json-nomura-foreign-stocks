@@ -2401,7 +2401,7 @@
         "nomura_code": "A4330"
     },
     {
-        "original_code": "@FI/UR",
+        "original_code": "@FISV/UR",
         "original_name": "Fiserv",
         "japanese_name": "ファイサーブ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A4368",
@@ -7082,6 +7082,13 @@
         "japanese_name": "ソルスティス・アドバンスト・マテリアルズ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7864",
         "nomura_code": "A7864"
+    },
+    {
+        "original_code": "@Q/UR",
+        "original_name": "Qnity Electronics",
+        "japanese_name": "キュニティ・エレクトロニクス",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7865",
+        "nomura_code": "A7865"
     },
     {
         "original_code": "@ALV/XE",
