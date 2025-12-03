@@ -3347,8 +3347,8 @@
     },
     {
         "original_code": "@XLF/UR",
-        "original_name": "Financial Select Sector SPDR Fund",
-        "japanese_name": "フィナンシャル・セレクト・セクター　ＳＰＤＲ　ファンド",
+        "original_name": "State Street Financial Select Sector SPDR ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　Ｆｉｎａｎｃｉａｌ　Ｓｅｌｅｃｔ　Ｓｅｃｔｏｒ　ＳＰＤＲ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5583",
         "nomura_code": "A5583"
     },
@@ -4852,57 +4852,57 @@
     },
     {
         "original_code": "@XLY/UR",
-        "original_name": "Consumer Discretionary Select Sector SPDR Fund",
-        "japanese_name": "コンシューマー・ディスクレショナリー・セレクト・セクター　ＳＰＤＲ　ファンド",
+        "original_name": "State Street Consumer Discretionary Select Sector SPDR ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　Ｃｏｎｓｕｍｅｒ　Ｄｉｓｃｒｅｔｉｏｎａｒｙ　Ｓｅｌｅｃｔ　Ｓｅｃｔｏｒ　ＳＰＤＲ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6531",
         "nomura_code": "A6531"
     },
     {
         "original_code": "@XLP/UR",
-        "original_name": "Consumer Staples Select Sector SPDR Fund",
-        "japanese_name": "コンシューマー・ステイプル・セレクト・セクター　ＳＰＤＲ　ファンド",
+        "original_name": "State Street Consumer Staples Select Sector SPDR ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　Ｃｏｎｓｕｍｅｒ　Ｓｔａｐｌｅｓ　Ｓｅｌｅｃｔ　Ｓｅｃｔｏｒ　ＳＰＤＲ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6532",
         "nomura_code": "A6532"
     },
     {
         "original_code": "@XLE/UR",
-        "original_name": "Energy Select Sector SPDR Fund",
-        "japanese_name": "エナジー・セレクト・セクター　ＳＰＤＲ　ファンド",
+        "original_name": "State Street Energy Select Sector SPDR ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　Ｅｎｅｒｇｙ　Ｓｅｌｅｃｔ　Ｓｅｃｔｏｒ　ＳＰＤＲ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6533",
         "nomura_code": "A6533"
     },
     {
         "original_code": "@XLV/UR",
-        "original_name": "Health Care Select Sector SPDR Fund",
-        "japanese_name": "ヘルス・ケア・セレクト・セクター　ＳＰＤＲ　ファンド",
+        "original_name": "State Street Health Care Select Sector SPDR ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　Ｈｅａｌｔｈ　Ｃａｒｅ　Ｓｅｌｅｃｔ　Ｓｅｃｔｏｒ　ＳＰＤＲ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6534",
         "nomura_code": "A6534"
     },
     {
         "original_code": "@XLI/UR",
-        "original_name": "Industrial Select Sector SPDR Fund",
-        "japanese_name": "インダストリアル・セレクト・セクター　ＳＰＤＲ　ファンド",
+        "original_name": "State Street Industrial Select Sector SPDR ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　Ｉｎｄｕｓｔｒｉａｌ　Ｓｅｌｅｃｔ　Ｓｅｃｔｏｒ　ＳＰＤＲ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6535",
         "nomura_code": "A6535"
     },
     {
         "original_code": "@XLB/UR",
-        "original_name": "Materials Select Sector SPDR Fund",
-        "japanese_name": "マテリアルズ・セレクト・セクター　ＳＰＤＲ　ファンド",
+        "original_name": "State Street Materials Select Sector SPDR ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　Ｍａｔｅｒｉａｌｓ　Ｓｅｌｅｃｔ　Ｓｅｃｔｏｒ　ＳＰＤＲ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6536",
         "nomura_code": "A6536"
     },
     {
         "original_code": "@XLK/UR",
-        "original_name": "Technology Select Sector SPDR Fund",
-        "japanese_name": "テクノロジー・セレクト・セクター　ＳＰＤＲ　ファンド",
+        "original_name": "State Street Technology Select Sector SPDR ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　Ｔｅｃｈｎｏｌｏｇｙ　Ｓｅｌｅｃｔ　Ｓｅｃｔｏｒ　ＳＰＤＲ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6537",
         "nomura_code": "A6537"
     },
     {
         "original_code": "@XLU/UR",
-        "original_name": "Utilities Select Sector SPDR Fund",
-        "japanese_name": "ユーティリティ・セレクト・セクター　ＳＰＤＲ　ファンド",
+        "original_name": "State Street Utilities Select Sector SPDR ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　Ｕｔｉｌｉｔｉｅｓ　Ｓｅｌｅｃｔ　Ｓｅｃｔｏｒ　ＳＰＤＲ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6538",
         "nomura_code": "A6538"
     },
@@ -5300,8 +5300,8 @@
     },
     {
         "original_code": "@XLRE/UR",
-        "original_name": "Real Estate Select Sector SPDR Fund, The",
-        "japanese_name": "リアル・エステート・セレクト・セクターＳＰＤＲファンド",
+        "original_name": "State Street Real Estate Select Sector SPDR ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　Ｒｅａｌ　Ｅｓｔａｔｅ　Ｓｅｌｅｃｔ　Ｓｅｃｔｏｒ　ＳＰＤＲ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6868",
         "nomura_code": "A6868"
     },
@@ -5622,8 +5622,8 @@
     },
     {
         "original_code": "@XLC/UR",
-        "original_name": "Communication Services Select Sector SPDR Fund",
-        "japanese_name": "コミュニケーション・サービシズ・セレクト・セクター　ＳＰＤＲファンド",
+        "original_name": "State Street Communication Services Select Sector SPDR ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　Ｃｏｍｍｕｎｉｃａｔｉｏｎ　Ｓｅｒｖｉｃｅｓ　Ｓｅｌｅｃｔ　Ｓｅｃｔｏｒ　ＳＰＤＲ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7212",
         "nomura_code": "A7212"
     },
