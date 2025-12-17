@@ -7063,6 +7063,13 @@
         "nomura_code": "A7871"
     },
     {
+        "original_code": "@TTE/UR",
+        "original_name": "TotalEnergies",
+        "japanese_name": "トタルエナジーズ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7872",
+        "nomura_code": "A7872"
+    },
+    {
         "original_code": "@ALV/XE",
         "original_name": "Allianz",
         "japanese_name": "アリアンツ",
