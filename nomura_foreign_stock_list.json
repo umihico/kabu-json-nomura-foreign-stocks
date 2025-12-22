@@ -3017,13 +3017,6 @@
         "nomura_code": "A5197"
     },
     {
-        "original_code": "@IRBT/UR",
-        "original_name": "iRobot",
-        "japanese_name": "アイロボット",
-        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5199",
-        "nomura_code": "A5199"
-    },
-    {
         "original_code": "@NDAQ/UR",
         "original_name": "Nasdaq",
         "japanese_name": "ナスダック",
