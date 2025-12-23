@@ -7063,6 +7063,13 @@
         "nomura_code": "A7872"
     },
     {
+        "original_code": "@MDLN/UR",
+        "original_name": "Medline A",
+        "japanese_name": "メドライン　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7875",
+        "nomura_code": "A7875"
+    },
+    {
         "original_code": "@ALV/XE",
         "original_name": "Allianz",
         "japanese_name": "アリアンツ",
