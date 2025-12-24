@@ -7070,6 +7070,20 @@
         "nomura_code": "A7875"
     },
     {
+        "original_code": "@BETA/UR",
+        "original_name": "BETA Technologies A",
+        "japanese_name": "ベータ・テクノロジーズ　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7876",
+        "nomura_code": "A7876"
+    },
+    {
+        "original_code": "@SAIL/UR",
+        "original_name": "SailPoint",
+        "japanese_name": "セールポイント",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7877",
+        "nomura_code": "A7877"
+    },
+    {
         "original_code": "@ALV/XE",
         "original_name": "Allianz",
         "japanese_name": "アリアンツ",
