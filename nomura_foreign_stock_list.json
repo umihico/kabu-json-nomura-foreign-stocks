@@ -1456,6 +1456,13 @@
         "nomura_code": "A2125"
     },
     {
+        "original_code": "@MTZ/UR",
+        "original_name": "Mastec",
+        "japanese_name": "マステック",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A2141",
+        "nomura_code": "A2141"
+    },
+    {
         "original_code": "@MAR/UR",
         "original_name": "Marriott International A",
         "japanese_name": "マリオット・インターナショナル　Ａ",
@@ -3913,6 +3920,13 @@
         "nomura_code": "A6021"
     },
     {
+        "original_code": "@CBOE/UR",
+        "original_name": "Cboe Global Markets",
+        "japanese_name": "シーボー・グローバル・マーケッツ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6027",
+        "nomura_code": "A6027"
+    },
+    {
         "original_code": "@JNK/UR",
         "original_name": "State Street SPDR Bloomberg High Yield Bond ETF",
         "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｂｌｏｏｍｂｅｒｇ　Ｈｉｇｈ　Ｙｉｅｌｄ　Ｂｏｎｄ　ＥＴＦ",
@@ -5348,6 +5362,13 @@
         "nomura_code": "A6913"
     },
     {
+        "original_code": "@MTSI/UR",
+        "original_name": "MACOM Technology Solutions Holdings",
+        "japanese_name": "ＭＡＣＯＭテクノロジー・ソリューションズ・ホールディングス",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6926",
+        "nomura_code": "A6926"
+    },
+    {
         "original_code": "@MUSA/UR",
         "original_name": "Murphy USA",
         "japanese_name": "マーフィーＵＳＡ",
@@ -5577,6 +5598,13 @@
         "japanese_name": "ゼットスケーラー",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7171",
         "nomura_code": "A7171"
+    },
+    {
+        "original_code": "@BE/UR",
+        "original_name": "Bloom Energy",
+        "japanese_name": "ブルーム・エナジー",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7194",
+        "nomura_code": "A7194"
     },
     {
         "original_code": "@PDD/UR",
@@ -6391,6 +6419,13 @@
         "nomura_code": "A7642"
     },
     {
+        "original_code": "@IONQ/UR",
+        "original_name": "IonQ",
+        "japanese_name": "イオンキュー",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7648",
+        "nomura_code": "A7648"
+    },
+    {
         "original_code": "@WDS/UR",
         "original_name": "Woodside Energy Group ADR",
         "japanese_name": "ウッドサイド・エナジー・グループ　ＡＤＲ",
@@ -6746,6 +6781,13 @@
         "japanese_name": "テンパスＡＩ　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7766",
         "nomura_code": "A7766"
+    },
+    {
+        "original_code": "@OKLO/UR",
+        "original_name": "Oklo A",
+        "japanese_name": "オクロ　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7770",
+        "nomura_code": "A7770"
     },
     {
         "original_code": "@SIRI/UR",
