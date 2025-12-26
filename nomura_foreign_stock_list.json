@@ -9308,5 +9308,19 @@
         "japanese_name": "泡泡瑪特国際集団（ポップ・マート・インターナショナル・グループ）",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4971",
         "nomura_code": "Z4971"
+    },
+    {
+        "original_code": "@9880/HK_D",
+        "original_name": "UBTECH ROBOTICS",
+        "japanese_name": "深セン市優必選科技（ＵＢテック・ロボティクス）",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4973",
+        "nomura_code": "Z4973"
+    },
+    {
+        "original_code": "@9660/HK_D",
+        "original_name": "HORIZON ROBOTICS",
+        "japanese_name": "地平綫（ホライゾン・ロボティクス）",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4974",
+        "nomura_code": "Z4974"
     }
 ]
