@@ -9322,5 +9322,12 @@
         "japanese_name": "地平綫（ホライゾン・ロボティクス）",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4974",
         "nomura_code": "Z4974"
+    },
+    {
+        "original_code": "@300/HK_D",
+        "original_name": "MIDEA GROUP",
+        "japanese_name": "美的集団（ミデア・グループ）",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4975",
+        "nomura_code": "Z4975"
     }
 ]
