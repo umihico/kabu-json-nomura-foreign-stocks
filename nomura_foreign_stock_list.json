@@ -1491,9 +1491,9 @@
         "nomura_code": "A2222"
     },
     {
-        "original_code": "@MMC/UR",
-        "original_name": "Marsh & McLennan Companies",
-        "japanese_name": "マーシュ＆マクレナン・カンパニーズ",
+        "original_code": "@MRSH/UR",
+        "original_name": "Marsh",
+        "japanese_name": "マーシュ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A2229",
         "nomura_code": "A2229"
     },
@@ -7124,6 +7124,13 @@
         "japanese_name": "セールポイント",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7877",
         "nomura_code": "A7877"
+    },
+    {
+        "original_code": "@VSNT/UR",
+        "original_name": "Versant Media Group A",
+        "japanese_name": "ヴァーサント・メディア・グループ　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7883",
+        "nomura_code": "A7883"
     },
     {
         "original_code": "@ALV/XE",
