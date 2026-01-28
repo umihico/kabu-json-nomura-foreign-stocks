@@ -2220,8 +2220,8 @@
     },
     {
         "original_code": "@SPY/UR",
-        "original_name": "SPDR S&P 500 ETF Trust",
-        "japanese_name": "ＳＰＤＲＳ＆Ｐ　５００　ＥＴＦ　トラスト",
+        "original_name": "State Street SPDR S&P 500 ETF Trust",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｓ＆Ｐ　５００　ＥＴＦ　Ｔｒｕｓｔ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A3944",
         "nomura_code": "A3944"
     },
@@ -7852,13 +7852,6 @@
         "japanese_name": "新鴻基地産発展（サンフンカイ・プロパティーズ）",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z0194",
         "nomura_code": "Z0194"
-    },
-    {
-        "original_code": "@11/HK_D",
-        "original_name": "HANG SENG BANK",
-        "japanese_name": "恒生銀行（ハンセン・バンク）",
-        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z0198",
-        "nomura_code": "Z0198"
     },
     {
         "original_code": "@341/HK_D",
