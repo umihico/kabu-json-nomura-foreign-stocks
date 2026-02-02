@@ -2507,8 +2507,8 @@
     },
     {
         "original_code": "@AZN/UR",
-        "original_name": "AstraZeneca Group ADR",
-        "japanese_name": "アストラゼネカ・グループ　ＡＤＲ",
+        "original_name": "AstraZeneca",
+        "japanese_name": "アストラゼネカ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A4590",
         "nomura_code": "A4590"
     },
@@ -4054,8 +4054,8 @@
     },
     {
         "original_code": "@CWI/UR",
-        "original_name": "SPDR MSCI ACWI ex-US ETF",
-        "japanese_name": "ＳＰＤＲＭＳＣＩ・ＡＣＷＩ・ｅｘ－ＵＳ　ＥＴＦ",
+        "original_name": "State Street SPDR MSCI ACWI ex-US ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　ＭＳＣＩ　ＡＣＷＩ　ｅｘ－ＵＳ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6108",
         "nomura_code": "A6108"
     },
@@ -4075,8 +4075,8 @@
     },
     {
         "original_code": "@GMF/UR",
-        "original_name": "SPDR S&P Emerging Asia Pacific ETF",
-        "japanese_name": "ＳＰＤＲ　Ｓ＆Ｐ　エマージング・アジア・パシフィック　ＥＴＦ",
+        "original_name": "State Street SPDR S&P Emerging Asia Pacific ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｓ＆Ｐ　Ｅｍｅｒｇｉｎｇ　Ａｓｉａ　Ｐａｃｉｆｉｃ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6111",
         "nomura_code": "A6111"
     },
@@ -4194,8 +4194,8 @@
     },
     {
         "original_code": "@RWX/UR",
-        "original_name": "SPDR DJ International Real Estate ETF",
-        "japanese_name": "ＳＰＤＲ　ＤＪ　インターナショナル・リアル・エステイト　ＥＴＦ",
+        "original_name": "State Street SPDR Dow Jones International Real Estate ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｄｏｗ　Ｊｏｎｅｓ　Ｉｎｔｅｒｎａｔｉｏｎａｌ　Ｒｅａｌ　Ｅｓｔａｔｅ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6128",
         "nomura_code": "A6128"
     },
@@ -5902,15 +5902,15 @@
     },
     {
         "original_code": "@SPDW/UR",
-        "original_name": "SPDR Portfolio Developed World ex-US ETF",
-        "japanese_name": "ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｄｅｖｅｌｏｐｅｄ　Ｗｏｒｌｄ　ｅｘ－ＵＳ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio Developed World ex-US ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｄｅｖｅｌｏｐｅｄ　Ｗｏｒｌｄ　ｅｘ－ＵＳ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7409",
         "nomura_code": "A7409"
     },
     {
         "original_code": "@SPEM/UR",
-        "original_name": "SPDR Portfolio Emerging Markets ETF",
-        "japanese_name": "ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｅｍｅｒｇｉｎｇ　Ｍａｒｋｅｔｓ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio Emerging Markets ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｅｍｅｒｇｉｎｇ　Ｍａｒｋｅｔｓ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7410",
         "nomura_code": "A7410"
     },
@@ -5958,8 +5958,8 @@
     },
     {
         "original_code": "@FEZ/UR",
-        "original_name": "SPDR Euro Stoxx 50 ETF",
-        "japanese_name": "ＳＰＤＲユーロ・ストックス　５０　ＥＴＦ",
+        "original_name": "State Street SPDR EURO STOXX 50 ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　ＥＵＲＯ　ＳＴＯＸＸ　５０　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7417",
         "nomura_code": "A7417"
     },
