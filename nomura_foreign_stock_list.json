@@ -2975,13 +2975,6 @@
         "nomura_code": "A5162"
     },
     {
-        "original_code": "@THS/UR",
-        "original_name": "TreeHouse Foods",
-        "japanese_name": "ツリーハウス・フーズ",
-        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5163",
-        "nomura_code": "A5163"
-    },
-    {
         "original_code": "@ENTG/UR",
         "original_name": "Entegris",
         "japanese_name": "インテグリス",
@@ -4940,13 +4933,6 @@
         "japanese_name": "アリババ・グループ・ホールディング　ＡＤＲ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6581",
         "nomura_code": "A6581"
-    },
-    {
-        "original_code": "@CYBR/UR",
-        "original_name": "CyberArk Software",
-        "japanese_name": "サイバーアーク・ソフトウェア",
-        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6583",
-        "nomura_code": "A6583"
     },
     {
         "original_code": "@JLL/UR",
