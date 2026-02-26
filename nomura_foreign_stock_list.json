@@ -2458,8 +2458,8 @@
     },
     {
         "original_code": "@DIA/UR",
-        "original_name": "SPDR Dow Jones Industrial Average ETF",
-        "japanese_name": "ＳＰＤＲダウジョーンズ・インダストリアル・アベレージ　ＥＴＦ",
+        "original_name": "State Street SPDR Dow Jones Industrial Average ETF Trust",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｄｏｗ　Ｊｏｎｅｓ　Ｉｎｄｕｓｔｒｉａｌ　Ａｖｅｒａｇｅ　ＥＴＦ　Ｔｒｕｓｔ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A4536",
         "nomura_code": "A4536"
     },
@@ -5188,8 +5188,8 @@
     },
     {
         "original_code": "@PSTG/UR",
-        "original_name": "Everpure A",
-        "japanese_name": "エバーピュア　Ａ",
+        "original_name": "Pure Storage A",
+        "japanese_name": "ピュアストレージ　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6784",
         "nomura_code": "A6784"
     },
