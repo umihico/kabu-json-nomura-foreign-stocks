@@ -7,6 +7,13 @@
         "nomura_code": "A0001"
     },
     {
+        "original_code": "@AXP/UR",
+        "original_name": "American Express",
+        "japanese_name": "アメリカン・エキスプレス",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A0002",
+        "nomura_code": "A0002"
+    },
+    {
         "original_code": "@HWM/UR",
         "original_name": "Howmet Aerospace",
         "japanese_name": "ハウメット・エアロスペース",
