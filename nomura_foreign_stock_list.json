@@ -4684,85 +4684,85 @@
     },
     {
         "original_code": "@SPXL/UR",
-        "original_name": "Direxion Daily S&P 500 Bull 3X Shares",
-        "japanese_name": "ディレクション・デイリーＳ＆Ｐ５００・ブル３Ｘシェアーズ",
+        "original_name": "Direxion Daily S&P 500 Bull 3X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　Ｓ＆Ｐ　５００　Ｂｕｌｌ　３Ｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6492",
         "nomura_code": "A6492"
     },
     {
         "original_code": "@SPXS/UR",
-        "original_name": "Direxion Daily S&P 500 Bear 3X Shares",
-        "japanese_name": "ディレクション・デイリーＳ＆Ｐ５００・ベア３Ｘシェアーズ",
+        "original_name": "Direxion Daily S&P 500 Bear 3X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　Ｓ＆Ｐ　５００　Ｂｅａｒ　３Ｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6493",
         "nomura_code": "A6493"
     },
     {
         "original_code": "@TNA/UR",
-        "original_name": "Direxion Daily Small Cap Bull 3x Shares",
-        "japanese_name": "ディレクション・デイリー・スモール・キャップ・ブル　３ｘ　シェアーズ",
+        "original_name": "Direxion Daily Small Cap Bull 3X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　Ｓｍａｌｌ　Ｃａｐ　Ｂｕｌｌ　３Ｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6494",
         "nomura_code": "A6494"
     },
     {
         "original_code": "@TZA/UR",
-        "original_name": "Direxion Daily Small Cap Bear 3x Shares",
-        "japanese_name": "ディレクション・デイリー・スモール・キャップ・ベアー　３ｘ　シェアーズ",
+        "original_name": "Direxion Daily Small Cap Bear 3X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　Ｓｍａｌｌ　Ｃａｐ　Ｂｅａｒ　３Ｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6495",
         "nomura_code": "A6495"
     },
     {
         "original_code": "@FAS/UR",
-        "original_name": "Direxion Daily Financial Bull 3x Shares",
-        "japanese_name": "ディレクション・デイリー・フィナンシャル・ブル　３ｘ　シェアーズ",
+        "original_name": "Direxion Daily Financial Bull 3X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　Ｆｉｎａｎｃｉａｌ　Ｂｕｌｌ　３Ｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6496",
         "nomura_code": "A6496"
     },
     {
         "original_code": "@FAZ/UR",
-        "original_name": "Direxion Daily Financial Bear 3x Shares",
-        "japanese_name": "ディレクション・デイリー・フィナンシャル・ベアー　３ｘ　シェアーズ",
+        "original_name": "Direxion Daily Financial Bear 3X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　Ｆｉｎａｎｃｉａｌ　Ｂｅａｒ　３Ｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6497",
         "nomura_code": "A6497"
     },
     {
         "original_code": "@DRN/UR",
-        "original_name": "Direxion Daily Real Estate Bull 3X Shares",
-        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　Ｒｅａｌ　Ｅｓｔａｔｅ　Ｂｕｌｌ　３Ｘ　Ｓｈａｒｅｓ",
+        "original_name": "Direxion Daily Real Estate Bull 3X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　Ｒｅａｌ　Ｅｓｔａｔｅ　Ｂｕｌｌ　３Ｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6498",
         "nomura_code": "A6498"
     },
     {
         "original_code": "@DRV/UR",
-        "original_name": "Direxion Daily Real Estate Bear 3X Shares",
-        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　Ｒｅａｌ　Ｅｓｔａｔｅ　Ｂｅａｒ　３Ｘ　Ｓｈａｒｅｓ",
+        "original_name": "Direxion Daily Real Estate Bear 3X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　Ｒｅａｌ　Ｅｓｔａｔｅ　Ｂｅａｒ　３Ｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6499",
         "nomura_code": "A6499"
     },
     {
         "original_code": "@EDC/UR",
-        "original_name": "Direxion Daily MSCI Emerging Markets Bull 3X Shares",
-        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　ＭＳＣＩ　Ｅｍｅｒｇｉｎｇ　Ｍａｒｋｅｔｓ　Ｂｕｌｌ　３Ｘ　Ｓｈａｒｅｓ",
+        "original_name": "Direxion Daily MSCI Emerging Markets Bull 3X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　ＭＳＣＩ　Ｅｍｅｒｇｉｎｇ　Ｍａｒｋｅｔｓ　Ｂｕｌｌ　３Ｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6500",
         "nomura_code": "A6500"
     },
     {
         "original_code": "@EDZ/UR",
-        "original_name": "Direxion Daily MSCI Emerging Markets Bear 3X Shares",
-        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　ＭＳＣＩ　Ｅｍｅｒｇｉｎｇ　Ｍａｒｋｅｔｓ　Ｂｅａｒ　３Ｘ　Ｓｈａｒｅｓ",
+        "original_name": "Direxion Daily MSCI Emerging Markets Bear 3X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　ＭＳＣＩ　Ｅｍｅｒｇｉｎｇ　Ｍａｒｋｅｔｓ　Ｂｅａｒ　３Ｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6501",
         "nomura_code": "A6501"
     },
     {
         "original_code": "@TMF/UR",
-        "original_name": "Direxion Daily 20+ Year Treasury Bull 3X Shares",
-        "japanese_name": "ディレクション・デイリー・２０＋・イヤー・トレジャリー・ブル　３ｘ　シェアーズ",
+        "original_name": "Direxion Daily 20+ Year Treasury Bull 3X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　２０＋　Ｙｅａｒ　Ｔｒｅａｓｕｒｙ　Ｂｕｌｌ　３Ｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6502",
         "nomura_code": "A6502"
     },
     {
         "original_code": "@TMV/UR",
-        "original_name": "Direxion Daily 20+ Year Treasury Bear 3X Shares",
-        "japanese_name": "ディレクション・デイリー　２０＋イヤー・トレジャリー・ベア　３ｘ　シェアーズ",
+        "original_name": "Direxion Daily 20+ Year Treasury Bear 3X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　２０＋　Ｙｅａｒ　Ｔｒｅａｓｕｒｙ　Ｂｅａｒ　３Ｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6503",
         "nomura_code": "A6503"
     },
