@@ -7119,6 +7119,62 @@
         "nomura_code": "A7891"
     },
     {
+        "original_code": "@TSLS/UR",
+        "original_name": "Direxion Daily TSLA Bear 1X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　ＴＳＬＡ　Ｂｅａｒ　１Ｘ　ＥＴＦ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7892",
+        "nomura_code": "A7892"
+    },
+    {
+        "original_code": "@PLTD/UR",
+        "original_name": "Direxion Dailly PLTR Bear 1X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｌｙ　ＰＬＴＲ　Ｂｅａｒ　１Ｘ　ＥＴＦ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7893",
+        "nomura_code": "A7893"
+    },
+    {
+        "original_code": "@NVDD/UR",
+        "original_name": "Direxion Daily NVDA Bear 1X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　ＮＶＤＡ　Ｂｅａｒ　１Ｘ　ＥＴＦ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7894",
+        "nomura_code": "A7894"
+    },
+    {
+        "original_code": "@AMDD/UR",
+        "original_name": "Direxion Daily AMD Bear 1X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　ＡＭＤ　Ｂｅａｒ　１Ｘ　ＥＴＦ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7895",
+        "nomura_code": "A7895"
+    },
+    {
+        "original_code": "@AAPD/UR",
+        "original_name": "Direxion Daily AAPL Bear 1X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　ＡＡＰＬ　Ｂｅａｒ　１Ｘ　ＥＴＦ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7896",
+        "nomura_code": "A7896"
+    },
+    {
+        "original_code": "@GGLS/UR",
+        "original_name": "Direxion Daily GOOGL Bear 1X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　ＧＯＯＧＬ　Ｂｅａｒ　１Ｘ　ＥＴＦ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7897",
+        "nomura_code": "A7897"
+    },
+    {
+        "original_code": "@MUD/UR",
+        "original_name": "Direxion Daily MU Bear 1X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　ＭＵ　Ｂｅａｒ　１Ｘ　ＥＴＦ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7898",
+        "nomura_code": "A7898"
+    },
+    {
+        "original_code": "@AVS/UR",
+        "original_name": "Direxion Daily AVGO Bear 1X ETF",
+        "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　ＡＶＧＯ　Ｂｅａｒ　１Ｘ　ＥＴＦ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7899",
+        "nomura_code": "A7899"
+    },
+    {
         "original_code": "@ALV/XE",
         "original_name": "Allianz",
         "japanese_name": "アリアンツ",
