@@ -2457,13 +2457,6 @@
         "nomura_code": "A4515"
     },
     {
-        "original_code": "@HOLX/UR",
-        "original_name": "Hologic",
-        "japanese_name": "ホロジック",
-        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A4526",
-        "nomura_code": "A4526"
-    },
-    {
         "original_code": "@DIA/UR",
         "original_name": "State Street SPDR Dow Jones Industrial Average ETF Trust",
         "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｄｏｗ　Ｊｏｎｅｓ　Ｉｎｄｕｓｔｒｉａｌ　Ａｖｅｒａｇｅ　ＥＴＦ　Ｔｒｕｓｔ",
@@ -7173,6 +7166,13 @@
         "japanese_name": "Ｄｉｒｅｘｉｏｎ　Ｄａｉｌｙ　ＡＶＧＯ　Ｂｅａｒ　１Ｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7899",
         "nomura_code": "A7899"
+    },
+    {
+        "original_code": "@KRMN/UR",
+        "original_name": "Karman Holdings",
+        "japanese_name": "カルマン・ホールディングス",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7901",
+        "nomura_code": "A7901"
     },
     {
         "original_code": "@ALV/XE",
