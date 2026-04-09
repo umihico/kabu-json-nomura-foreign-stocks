@@ -2408,6 +2408,13 @@
         "nomura_code": "A4368"
     },
     {
+        "original_code": "@TTMI/UR",
+        "original_name": "TTM Technologies",
+        "japanese_name": "ＴＴＭテクノロジーズ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A4376",
+        "nomura_code": "A4376"
+    },
+    {
         "original_code": "@TPR/UR",
         "original_name": "Tapestry",
         "japanese_name": "タペストリー",
@@ -3106,6 +3113,13 @@
         "japanese_name": "ウエスタン・ユニオン",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5336",
         "nomura_code": "A5336"
+    },
+    {
+        "original_code": "@GSAT/UR",
+        "original_name": "GlobalStar",
+        "japanese_name": "グローバルスター",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5351",
+        "nomura_code": "A5351"
     },
     {
         "original_code": "@OC/UR",
@@ -4760,13 +4774,6 @@
         "nomura_code": "A6504"
     },
     {
-        "original_code": "@AL/UR",
-        "original_name": "Air Lease",
-        "japanese_name": "エア・リース",
-        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6508",
-        "nomura_code": "A6508"
-    },
-    {
         "original_code": "@JD/UR",
         "original_name": "JD.com ADR",
         "japanese_name": "ＪＤドット・コム　ＡＤＲ",
@@ -5803,6 +5810,13 @@
         "nomura_code": "A7349"
     },
     {
+        "original_code": "@VSAT/UR",
+        "original_name": "ViaSat",
+        "japanese_name": "バイアサット",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7359",
+        "nomura_code": "A7359"
+    },
+    {
         "original_code": "@TW/UR",
         "original_name": "Tradeweb Markets A",
         "japanese_name": "トレードウェブ・マーケッツ　Ａ",
@@ -6615,6 +6629,13 @@
         "nomura_code": "A7732"
     },
     {
+        "original_code": "@SATS/UR",
+        "original_name": "EchoStar",
+        "japanese_name": "エコスター",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7735",
+        "nomura_code": "A7735"
+    },
+    {
         "original_code": "@APP/UR",
         "original_name": "Applovin A",
         "japanese_name": "アップラビン　Ａ",
@@ -7173,6 +7194,13 @@
         "japanese_name": "カルマン・ホールディングス",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7901",
         "nomura_code": "A7901"
+    },
+    {
+        "original_code": "@DRS/UR",
+        "original_name": "Leonardo DRS",
+        "japanese_name": "レオナルドＤＲＳ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7902",
+        "nomura_code": "A7902"
     },
     {
         "original_code": "@ALV/XE",
