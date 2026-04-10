@@ -539,6 +539,13 @@
         "nomura_code": "A0499"
     },
     {
+        "original_code": "@NYT/UR",
+        "original_name": "New York Times",
+        "japanese_name": "ニューヨーク・タイムズ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A0512",
+        "nomura_code": "A0512"
+    },
+    {
         "original_code": "@NEM/UR",
         "original_name": "Newmont",
         "japanese_name": "ニューモント",
@@ -2203,6 +2210,13 @@
         "japanese_name": "ロバート・ハーフ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A3890",
         "nomura_code": "A3890"
+    },
+    {
+        "original_code": "@RGLD/UR",
+        "original_name": "Royal Gold",
+        "japanese_name": "ロイヤル・ゴールド",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A3891",
+        "nomura_code": "A3891"
     },
     {
         "original_code": "@STM/UR",
@@ -4578,6 +4592,13 @@
         "nomura_code": "A6377"
     },
     {
+        "original_code": "@UI/UR",
+        "original_name": "Ubiquiti",
+        "japanese_name": "ユビキティ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6384",
+        "nomura_code": "A6384"
+    },
+    {
         "original_code": "@WIX/UR",
         "original_name": "Wix.com",
         "japanese_name": "ウィックス・ドット・コム",
@@ -5388,6 +5409,13 @@
         "japanese_name": "ベーカー・ヒューズ　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6986",
         "nomura_code": "A6986"
+    },
+    {
+        "original_code": "@AAOI/UR",
+        "original_name": "Applied Optoelectronics",
+        "japanese_name": "アプライド・オプトエレクトロニクス",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6987",
+        "nomura_code": "A6987"
     },
     {
         "original_code": "@IR/UR",
