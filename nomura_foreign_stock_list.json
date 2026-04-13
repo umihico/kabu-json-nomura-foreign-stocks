@@ -9420,5 +9420,19 @@
         "japanese_name": "美的集団（ミデア・グループ）",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4975",
         "nomura_code": "Z4975"
+    },
+    {
+        "original_code": "@2259/HK_D",
+        "original_name": "ZIJIN GOLD INTERNATIONAL",
+        "japanese_name": "紫金黄金国際（ジジン・ゴールド・インターナショナル）",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4978",
+        "nomura_code": "Z4978"
+    },
+    {
+        "original_code": "@1378/HK_D",
+        "original_name": "CHINA HONGQIAO GROUP",
+        "japanese_name": "中国宏橋集団（チャイナ・ホンチャオ）",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4979",
+        "nomura_code": "Z4979"
     }
 ]
