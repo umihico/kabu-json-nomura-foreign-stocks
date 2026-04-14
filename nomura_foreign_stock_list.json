@@ -9268,6 +9268,13 @@
         "nomura_code": "Z4881"
     },
     {
+        "original_code": "@1347/HK_D",
+        "original_name": "HUA HONG SEMICONDUCTOR",
+        "japanese_name": "華虹半導体（ファホン・セミコンダクター）",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4906",
+        "nomura_code": "Z4906"
+    },
+    {
         "original_code": "@1810/HK_D",
         "original_name": "XIAOMI CLASS B",
         "japanese_name": "小米集団（シャオミ）",
@@ -9434,5 +9441,26 @@
         "japanese_name": "中国宏橋集団（チャイナ・ホンチャオ）",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4979",
         "nomura_code": "Z4979"
+    },
+    {
+        "original_code": "@100/HK_D",
+        "original_name": "MINIMAX GROUP",
+        "japanese_name": "ミニマックス・グループ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4980",
+        "nomura_code": "Z4980"
+    },
+    {
+        "original_code": "@1787/HK_D",
+        "original_name": "SHANDONG GOLD MINING",
+        "japanese_name": "山東黄金鉱業（シャンドン・ゴールド・マイニング）",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4981",
+        "nomura_code": "Z4981"
+    },
+    {
+        "original_code": "@3986/HK_D",
+        "original_name": "GIGADEVICE SEMICONDUCTOR",
+        "japanese_name": "兆易創新科技集団（ギガデバイス・セミコンダクター）",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4982",
+        "nomura_code": "Z4982"
     }
 ]
