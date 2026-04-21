@@ -5768,6 +5768,13 @@
         "nomura_code": "A7317"
     },
     {
+        "original_code": "@LEVI/UR",
+        "original_name": "Levi Strauss A",
+        "japanese_name": "リーバイ・ストラウス　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7318",
+        "nomura_code": "A7318"
+    },
+    {
         "original_code": "@LYFT/UR",
         "original_name": "Lyft A",
         "japanese_name": "リフト　Ａ",
@@ -6361,6 +6368,13 @@
         "japanese_name": "シーザーズ・エンターテインメント",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7598",
         "nomura_code": "A7598"
+    },
+    {
+        "original_code": "@ARES/UR",
+        "original_name": "Ares Management A",
+        "japanese_name": "アレス・マネジメント　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7601",
+        "nomura_code": "A7601"
     },
     {
         "original_code": "@KD/UR",
@@ -7056,6 +7070,13 @@
         "nomura_code": "A7850"
     },
     {
+        "original_code": "@APLD/UR",
+        "original_name": "Applied Digital",
+        "japanese_name": "アプライド・デジタル",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7855",
+        "nomura_code": "A7855"
+    },
+    {
         "original_code": "@CRDO/UR",
         "original_name": "Credo Technology Group Holding",
         "japanese_name": "クレド・テクノロジー・グループ・ホールディング",
@@ -7229,6 +7250,13 @@
         "japanese_name": "レオナルドＤＲＳ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7902",
         "nomura_code": "A7902"
+    },
+    {
+        "original_code": "@OWL/UR",
+        "original_name": "Blue Owl Capital A",
+        "japanese_name": "ブルー・アウル・キャピタル　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7908",
+        "nomura_code": "A7908"
     },
     {
         "original_code": "@ALV/XE",
@@ -8491,6 +8519,13 @@
         "nomura_code": "Z1414"
     },
     {
+        "original_code": "@1385/HK_D",
+        "original_name": "SHANGHAI FUDAN MICROELECTRONICS GROUP",
+        "japanese_name": "上海復旦微電子集団（シャンハイ・フーダン・マイクロエレクトロニクス）",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z1440",
+        "nomura_code": "Z1440"
+    },
+    {
         "original_code": "@2388/HK_D",
         "original_name": "BOC HONG KONG (HOLDINGS)",
         "japanese_name": null,
@@ -9275,6 +9310,13 @@
         "nomura_code": "Z4906"
     },
     {
+        "original_code": "@6869/HK_D",
+        "original_name": "YANGTZE OPTICAL FIBRE AND CABLE",
+        "japanese_name": "長飛光繊光纜（ヤンツェ・オプティカル・ファイバー・アンド・ケーブル）",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4916",
+        "nomura_code": "Z4916"
+    },
+    {
         "original_code": "@1810/HK_D",
         "original_name": "XIAOMI CLASS B",
         "japanese_name": "小米集団（シャオミ）",
@@ -9462,5 +9504,12 @@
         "japanese_name": "兆易創新科技集団（ギガデバイス・セミコンダクター）",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4982",
         "nomura_code": "Z4982"
+    },
+    {
+        "original_code": "@2513/HK_D",
+        "original_name": "KNOWLEDGE ATLAS TECHNOLOGY",
+        "japanese_name": "北京智譜華章科技（ナレッジ・アトラス・テクノロジー）",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4983",
+        "nomura_code": "Z4983"
     }
 ]
