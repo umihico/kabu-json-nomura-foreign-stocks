@@ -4250,8 +4250,8 @@
     },
     {
         "original_code": "@EBND/UR",
-        "original_name": "SPDR Bloomberg Emerging Markets Local Bond ETF",
-        "japanese_name": "ＳＰＤＲ　Ｂｌｏｏｍｂｅｒｇ　Ｅｍｅｒｇｉｎｇ　Ｍａｒｋｅｔｓ　Ｌｏｃａｌ　Ｂｏｎｄ　ＥＴＦ",
+        "original_name": "State Street SPDR Bloomberg Emerging Markets Local Bond ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｂｌｏｏｍｂｅｒｇ　Ｅｍｅｒｇｉｎｇ　Ｍａｒｋｅｔｓ　Ｌｏｃａｌ　Ｂｏｎｄ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6136",
         "nomura_code": "A6136"
     },
@@ -6028,8 +6028,8 @@
     },
     {
         "original_code": "@BWX/UR",
-        "original_name": "SPDR Bloomberg International Treasury Bond ETF",
-        "japanese_name": "ＳＰＤＲ　Ｂｌｏｏｍｂｅｒｇ　Ｉｎｔｅｒｎａｔｉｏｎａｌ　Ｔｒｅａｓｕｒｙ　Ｂｏｎｄ　ＥＴＦ",
+        "original_name": "State Street SPDR Bloomberg International Treasury Bond ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｂｌｏｏｍｂｅｒｇ　Ｉｎｔｅｒｎａｔｉｏｎａｌ　Ｔｒｅａｓｕｒｙ　Ｂｏｎｄ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7424",
         "nomura_code": "A7424"
     },
