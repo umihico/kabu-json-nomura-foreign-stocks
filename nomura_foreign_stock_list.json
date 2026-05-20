@@ -3291,7 +3291,7 @@
     },
     {
         "original_code": "@BK/UR",
-        "original_name": "Bank of New York Mellon",
+        "original_name": "Bank of New York Mellon, The",
         "japanese_name": "バンク・オブ・ニューヨーク・メロン",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5486",
         "nomura_code": "A5486"
@@ -7250,6 +7250,13 @@
         "japanese_name": "エンライト・リニューアブル・エナジー",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7909",
         "nomura_code": "A7909"
+    },
+    {
+        "original_code": "@CBRS/UR",
+        "original_name": "Cerebras Systems A",
+        "japanese_name": "セレブラス・システムズ　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7914",
+        "nomura_code": "A7914"
     },
     {
         "original_code": "@ALV/XE",
