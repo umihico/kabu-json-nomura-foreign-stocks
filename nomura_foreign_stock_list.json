@@ -3381,6 +3381,13 @@
         "nomura_code": "A5605"
     },
     {
+        "original_code": "@V/UR",
+        "original_name": "Visa A",
+        "japanese_name": "ビザ　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5608",
+        "nomura_code": "A5608"
+    },
+    {
         "original_code": "@PM/UR",
         "original_name": "Philip Morris International",
         "japanese_name": "フィリップ・モリス・インターナショナル",
