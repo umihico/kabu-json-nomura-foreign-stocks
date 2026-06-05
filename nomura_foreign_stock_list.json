@@ -2730,6 +2730,13 @@
         "nomura_code": "A4863"
     },
     {
+        "original_code": "@FORM/UR",
+        "original_name": "FormFactor",
+        "japanese_name": "フォームファクター",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A4877",
+        "nomura_code": "A4877"
+    },
+    {
         "original_code": "@BMRN/UR",
         "original_name": "BioMarin Pharmaceutical",
         "japanese_name": "バイオマリン・ファーマシューティカル",
@@ -7259,6 +7266,13 @@
         "nomura_code": "A7914"
     },
     {
+        "original_code": "@TLN/UR",
+        "original_name": "Talen Energy",
+        "japanese_name": "タレン・エナジー",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7918",
+        "nomura_code": "A7918"
+    },
+    {
         "original_code": "@ALV/XE",
         "original_name": "Allianz",
         "japanese_name": "アリアンツ",
@@ -9304,8 +9318,8 @@
     },
     {
         "original_code": "@1347/HK_D",
-        "original_name": "HUA HONG SEMICONDUCTOR",
-        "japanese_name": "華虹半導体（ファホン・セミコンダクター）",
+        "original_name": "HUA HONG GRACE SEMICONDUCTOR",
+        "japanese_name": "華虹宏力半導体（ファ・ホン・グレース・セミコンダクター）",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4906",
         "nomura_code": "Z4906"
     },
