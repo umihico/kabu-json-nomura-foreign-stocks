@@ -232,8 +232,8 @@
     },
     {
         "original_code": "@XOM/UR",
-        "original_name": "Exxon Mobil",
-        "japanese_name": "エクソン・モービル",
+        "original_name": "ExxonMobil Holdings",
+        "japanese_name": "エクソンモービル・ホールディングス",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A0209",
         "nomura_code": "A0209"
     },
@@ -6678,13 +6678,6 @@
         "nomura_code": "A7741"
     },
     {
-        "original_code": "@BLD/UR",
-        "original_name": "TopBuild",
-        "japanese_name": "トップビルド",
-        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7743",
-        "nomura_code": "A7743"
-    },
-    {
         "original_code": "@CELH/UR",
         "original_name": "Celsius Holdings",
         "japanese_name": "セルシウス・ホールディングス",
@@ -7292,6 +7285,13 @@
         "japanese_name": "スペース・エクスプロレーション・テクノロジーズ　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7921",
         "nomura_code": "A7921"
+    },
+    {
+        "original_code": "@DRAM/UR",
+        "original_name": "Roundhill Memory ETF",
+        "japanese_name": "Ｒｏｕｎｄｈｉｌｌ　Ｍｅｍｏｒｙ　ＥＴＦ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7924",
+        "nomura_code": "A7924"
     },
     {
         "original_code": "@ALV/XE",
