@@ -7301,6 +7301,20 @@
         "nomura_code": "A7926"
     },
     {
+        "original_code": "@MBGL/UR",
+        "original_name": "Mobility Global",
+        "japanese_name": "モビリティ・グローバル",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7927",
+        "nomura_code": "A7927"
+    },
+    {
+        "original_code": "@INIO/UR",
+        "original_name": "INNIO",
+        "japanese_name": "ＩＮＮＩＯ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7928",
+        "nomura_code": "A7928"
+    },
+    {
         "original_code": "@ALV/XE",
         "original_name": "Allianz",
         "japanese_name": "アリアンツ",
