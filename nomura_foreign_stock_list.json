@@ -9567,5 +9567,12 @@
         "japanese_name": "北京智譜華章科技（ナレッジ・アトラス・テクノロジー）",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4983",
         "nomura_code": "Z4983"
+    },
+    {
+        "original_code": "@2476/HK_D",
+        "original_name": "VICTORY GIANT TECHNOLOGY (HUIZHOU)",
+        "japanese_name": null,
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4984",
+        "nomura_code": "Z4984"
     }
 ]
