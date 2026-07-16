@@ -7315,6 +7315,13 @@
         "nomura_code": "A7928"
     },
     {
+        "original_code": "@SKHY/UR",
+        "original_name": "SK hynix ADR",
+        "japanese_name": "ＳＫハイニックス　ＡＤＲ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7930",
+        "nomura_code": "A7930"
+    },
+    {
         "original_code": "@ALV/XE",
         "original_name": "Allianz",
         "japanese_name": "アリアンツ",
@@ -9563,8 +9570,8 @@
     },
     {
         "original_code": "@2513/HK_D",
-        "original_name": "KNOWLEDGE ATLAS TECHNOLOGY",
-        "japanese_name": "北京智譜華章科技（ナレッジ・アトラス・テクノロジー）",
+        "original_name": "Z.AI",
+        "japanese_name": "北京智譜華章科技（Ｚ．ＡＩ）",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4983",
         "nomura_code": "Z4983"
     },
