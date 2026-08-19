@@ -2444,8 +2444,8 @@
     },
     {
         "original_code": "@CBRE/UR",
-        "original_name": "CBRE Group",
-        "japanese_name": "ＣＢＲＥグループ",
+        "original_name": "CBRE Group A",
+        "japanese_name": "ＣＢＲＥグループ　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A4421",
         "nomura_code": "A4421"
     },
@@ -3004,8 +3004,8 @@
     },
     {
         "original_code": "@CME/UR",
-        "original_name": "CME Group",
-        "japanese_name": "ＣＭＥグループ",
+        "original_name": "CME Group A",
+        "japanese_name": "ＣＭＥグループ　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5187",
         "nomura_code": "A5187"
     },
@@ -3018,8 +3018,8 @@
     },
     {
         "original_code": "@CTSH/UR",
-        "original_name": "Cognizant Technology Solutions",
-        "japanese_name": "コグニザント・テクノロジー・ソリューションズ",
+        "original_name": "Cognizant Technology Solutions A",
+        "japanese_name": "コグニザント・テクノロジー・ソリューションズ　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5197",
         "nomura_code": "A5197"
     },
@@ -5874,8 +5874,8 @@
     },
     {
         "original_code": "@BAH/UR",
-        "original_name": "Booz Allen Hamilton Holding",
-        "japanese_name": "ブーズ・アレン・ハミルトンＨＤ",
+        "original_name": "Booz Allen Hamilton Holding A",
+        "japanese_name": "ブーズ・アレン・ハミルトン・ホールディング　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7372",
         "nomura_code": "A7372"
     },
@@ -6203,8 +6203,8 @@
     },
     {
         "original_code": "@CVNA/UR",
-        "original_name": "Carvana",
-        "japanese_name": "カーバナ",
+        "original_name": "Carvana A",
+        "japanese_name": "カーバナ　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7532",
         "nomura_code": "A7532"
     },
@@ -6658,8 +6658,8 @@
     },
     {
         "original_code": "@ECHO/UR",
-        "original_name": "EchoStar",
-        "japanese_name": "エコスター",
+        "original_name": "EchoStar A",
+        "japanese_name": "エコスター　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7735",
         "nomura_code": "A7735"
     },
