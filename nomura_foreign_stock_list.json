@@ -1219,8 +1219,8 @@
     },
     {
         "original_code": "@ERIC/UR",
-        "original_name": "Ericsson ADR",
-        "japanese_name": "エリクソン　ＡＤＲ",
+        "original_name": "Telefonaktiebolaget LM Ericsson B ADR",
+        "japanese_name": "テレフォナクティーボラーゲＬＭエリクソン　Ｂ　ＡＤＲ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A1450",
         "nomura_code": "A1450"
     },
@@ -4684,8 +4684,8 @@
     },
     {
         "original_code": "@WB/UR",
-        "original_name": "Weibo ADR",
-        "japanese_name": "微博（ウェイボー）　ＡＤＲ",
+        "original_name": "Weibo A ADR",
+        "japanese_name": "微博（ウェイボー）　Ａ　ＡＤＲ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6483",
         "nomura_code": "A6483"
     },
