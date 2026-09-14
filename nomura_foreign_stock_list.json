@@ -1960,13 +1960,6 @@
         "nomura_code": "A3246"
     },
     {
-        "original_code": "@TEVA/UR",
-        "original_name": "Teva Pharmaceutical Industries ADR",
-        "japanese_name": "テバ・ファーマシューティカル・インダストリーズ　ＡＤＲ",
-        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A3250",
-        "nomura_code": "A3250"
-    },
-    {
         "original_code": "@RIG/UR",
         "original_name": "Transocean",
         "japanese_name": "トランスオーシャン",
