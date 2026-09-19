@@ -7294,6 +7294,13 @@
         "nomura_code": "A7930"
     },
     {
+        "original_code": "@TEVA/UR",
+        "original_name": "Teva Pharmaceutical Industries",
+        "japanese_name": "テバ・ファーマシューティカル・インダストリーズ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7936",
+        "nomura_code": "A7936"
+    },
+    {
         "original_code": "@ALV/XE",
         "original_name": "Allianz",
         "japanese_name": "アリアンツ",
