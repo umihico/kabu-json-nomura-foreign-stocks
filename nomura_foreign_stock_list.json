@@ -833,6 +833,13 @@
         "nomura_code": "A0841"
     },
     {
+        "original_code": "@KTOS/UR",
+        "original_name": "Kratos Defense & Security Solutions",
+        "japanese_name": "クラトス・ディフェンス＆セキュリティ・ソリューションズ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A0848",
+        "nomura_code": "A0848"
+    },
+    {
         "original_code": "@UL/UR",
         "original_name": "Unilever ADR",
         "japanese_name": "ユニリーバ　ＡＤＲ",
@@ -3108,6 +3115,13 @@
         "nomura_code": "A5326"
     },
     {
+        "original_code": "@MKSI/UR",
+        "original_name": "MKS",
+        "japanese_name": "ＭＫＳ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5327",
+        "nomura_code": "A5327"
+    },
+    {
         "original_code": "@WU/UR",
         "original_name": "Western Union",
         "japanese_name": "ウエスタン・ユニオン",
@@ -3442,6 +3456,13 @@
         "japanese_name": "リージョンズ・ファイナンシャル",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5695",
         "nomura_code": "A5695"
+    },
+    {
+        "original_code": "@WCC/UR",
+        "original_name": "WESCO International",
+        "japanese_name": "ウェスコ・インターナショナル",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A5703",
+        "nomura_code": "A5703"
     },
     {
         "original_code": "@IGF/UR",
@@ -5649,6 +5670,13 @@
         "nomura_code": "A7250"
     },
     {
+        "original_code": "@GH/UR",
+        "original_name": "Guardant Health",
+        "japanese_name": "ガーダント・ヘルス",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7255",
+        "nomura_code": "A7255"
+    },
+    {
         "original_code": "@MEDP/UR",
         "original_name": "Medpace Holdings",
         "japanese_name": "メッドペース・ホールディングス",
@@ -6151,6 +6179,13 @@
         "japanese_name": "パランティア・テクノロジーズ　Ａ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7499",
         "nomura_code": "A7499"
+    },
+    {
+        "original_code": "@SITM/UR",
+        "original_name": "SiTime",
+        "japanese_name": "サイタイム",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7507",
+        "nomura_code": "A7507"
     },
     {
         "original_code": "@VTRS/UR",
