@@ -7336,6 +7336,34 @@
         "nomura_code": "A7936"
     },
     {
+        "original_code": "@SUNB/UR",
+        "original_name": "Sunbelt Rentals Holdings",
+        "japanese_name": "サンベルト・レンタルズ・ホールディングス",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7937",
+        "nomura_code": "A7937"
+    },
+    {
+        "original_code": "@ARXS/UR",
+        "original_name": "Arxis A",
+        "japanese_name": "アークシス　Ａ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7938",
+        "nomura_code": "A7938"
+    },
+    {
+        "original_code": "@APG/UR",
+        "original_name": "APi Group",
+        "japanese_name": "ＡＰｉグループ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7939",
+        "nomura_code": "A7939"
+    },
+    {
+        "original_code": "@BMNR/UR",
+        "original_name": "Bitmine Immersion Technologies",
+        "japanese_name": "ビットマイン・イマーション・テクノロジーズ",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7940",
+        "nomura_code": "A7940"
+    },
+    {
         "original_code": "@ALV/XE",
         "original_name": "Allianz",
         "japanese_name": "アリアンツ",
@@ -9588,5 +9616,19 @@
         "japanese_name": null,
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4984",
         "nomura_code": "Z4984"
+    },
+    {
+        "original_code": "@2475/HK_D",
+        "original_name": "LUXSHARE PRECISION INDUSTRY",
+        "japanese_name": "立訊精密工業（ラクスシェア・プレシジョン・インダストリー）",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4985",
+        "nomura_code": "Z4985"
+    },
+    {
+        "original_code": "@9633/HK_D",
+        "original_name": "NONGFU SPRING",
+        "japanese_name": "農夫山泉（ノンフー・スプリング）",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4986",
+        "nomura_code": "Z4986"
     }
 ]
