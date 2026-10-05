@@ -9630,5 +9630,26 @@
         "japanese_name": "農夫山泉（ノンフー・スプリング）",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4986",
         "nomura_code": "Z4986"
+    },
+    {
+        "original_code": "@6951/HK_D",
+        "original_name": "CHAOZHOU THREE-CIRCLE (GROUP)",
+        "japanese_name": null,
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4987",
+        "nomura_code": "Z4987"
+    },
+    {
+        "original_code": "@3200/HK_D",
+        "original_name": "SHENZHEN HAN'S CNC TECHNOLOGY",
+        "japanese_name": "深セン市大族数控科技（シェンジェン・ハンズＣＮＣテクノロジー）",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4988",
+        "nomura_code": "Z4988"
+    },
+    {
+        "original_code": "@501/HK_D",
+        "original_name": "OMNIVISION INTEGRATED CIRCUITS GROUP",
+        "japanese_name": "豪威集成電路（集団）（オムニビジョン・インテグレーテッド・サーキッツ・グループ）",
+        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=Z4989",
+        "nomura_code": "Z4989"
     }
 ]
