@@ -5033,13 +5033,6 @@
         "nomura_code": "A6619"
     },
     {
-        "original_code": "@QRVO/UR",
-        "original_name": "Qorvo",
-        "japanese_name": "クォルボ",
-        "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A6625",
-        "nomura_code": "A6625"
-    },
-    {
         "original_code": "@APTV/UR",
         "original_name": "Aptiv",
         "japanese_name": "アプティブ",
@@ -7021,9 +7014,9 @@
         "nomura_code": "A7840"
     },
     {
-        "original_code": "@PSKY/UR",
-        "original_name": "Paramount Skydance B",
-        "japanese_name": "パラマウント・スカイダンス　Ｂ",
+        "original_code": "@SKYD/UR",
+        "original_name": "Skydance B",
+        "japanese_name": "スカイダンス　Ｂ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7843",
         "nomura_code": "A7843"
     },
