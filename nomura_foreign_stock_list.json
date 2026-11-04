@@ -5993,29 +5993,29 @@
     },
     {
         "original_code": "@SPAB/UR",
-        "original_name": "State Street SPDR Portfolio Aggregate Bond ETF",
-        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ａｇｇｒｅｇａｔｅ　Ｂｏｎｄ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio Aggregate Bond Index ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ａｇｇｒｅｇａｔｅ　Ｂｏｎｄ　Ｉｎｄｅｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7420",
         "nomura_code": "A7420"
     },
     {
         "original_code": "@SPTS/UR",
-        "original_name": "State Street SPDR Portfolio Short Term Treasury ETF",
-        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓｈｏｒｔ　Ｔｅｒｍ　Ｔｒｅａｓｕｒｙ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio Short Term Treasury Index ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓｈｏｒｔ　Ｔｅｒｍ　Ｔｒｅａｓｕｒｙ　Ｉｎｄｅｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7421",
         "nomura_code": "A7421"
     },
     {
         "original_code": "@SPTI/UR",
-        "original_name": "State Street SPDR Portfolio Intermediate Term Treasury ETF",
-        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｉｎｔｅｒｍｅｄｉａｔｅ　Ｔｅｒｍ　Ｔｒｅａｓｕｒｙ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio Intermediate Term Treasury Index ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｉｎｔｅｒｍｅｄｉａｔｅ　Ｔｅｒｍ　Ｔｒｅａｓｕｒｙ　Ｉｎｄｅｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7422",
         "nomura_code": "A7422"
     },
     {
         "original_code": "@SPTL/UR",
-        "original_name": "State Street SPDR Portfolio Long Term Treasury ETF",
-        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｌｏｎｇ　Ｔｅｒｍ　Ｔｒｅａｓｕｒｙ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio Long Term Treasury Index ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｌｏｎｇ　Ｔｅｒｍ　Ｔｒｅａｓｕｒｙ　Ｉｎｄｅｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7423",
         "nomura_code": "A7423"
     },
@@ -6028,22 +6028,22 @@
     },
     {
         "original_code": "@SPSB/UR",
-        "original_name": "State Street SPDR Portfolio Short Term Corporate Bond ETF",
-        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓｈｏｒｔ　Ｔｅｒｍ　Ｃｏｒｐｏｒａｔｅ　Ｂｏｎｄ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio Short Term Corporate Bond Index ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｓｈｏｒｔ　Ｔｅｒｍ　Ｃｏｒｐｏｒａｔｅ　Ｂｏｎｄ　Ｉｎｄｅｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7425",
         "nomura_code": "A7425"
     },
     {
         "original_code": "@SPIB/UR",
-        "original_name": "State Street SPDR Portfolio Intermediate Term Corporate Bond ETF",
-        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｉｎｔｅｒｍｅｄｉａｔｅ　Ｔｅｒｍ　Ｃｏｒｐｏｒａｔｅ　Ｂｏｎｄ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio Intermediate Term Corporate Bond Index ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｉｎｔｅｒｍｅｄｉａｔｅ　Ｔｅｒｍ　Ｃｏｒｐｏｒａｔｅ　Ｂｏｎｄ　Ｉｎｄｅｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7426",
         "nomura_code": "A7426"
     },
     {
         "original_code": "@SPLB/UR",
-        "original_name": "State Street SPDR Portfolio Long Term Corporate Bond ETF",
-        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｌｏｎｇ　Ｔｅｒｍ　Ｃｏｒｐｏｒａｔｅ　Ｂｏｎｄ　ＥＴＦ",
+        "original_name": "State Street SPDR Portfolio Long Term Corporate Bond Index ETF",
+        "japanese_name": "Ｓｔａｔｅ　Ｓｔｒｅｅｔ　ＳＰＤＲ　Ｐｏｒｔｆｏｌｉｏ　Ｌｏｎｇ　Ｔｅｒｍ　Ｃｏｒｐｏｒａｔｅ　Ｂｏｎｄ　Ｉｎｄｅｘ　ＥＴＦ",
         "nomura_url": "https://advance.quote.nomura.co.jp/meigara/nomura2/qsearch.exe?F=users/nomura/fs_detail&KEY1=A7427",
         "nomura_code": "A7427"
     },
